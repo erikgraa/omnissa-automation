@@ -29,45 +29,64 @@
     [Switch]$PassThru
   )
 
-  begin {}
+  begin {
+$code= @"
+        using System.Net;
+        using System.Security.Cryptography.X509Certificates;
+        public class TrustAllCertsPolicy : ICertificatePolicy {
+            public bool CheckValidationResult(ServicePoint srvPoint, X509Certificate certificate, WebRequest request, int certificateProblem) {
+                return true;
+            }
+        }
+"@    
+  }
 
   process {
-    $baseUri = ('https://{0}:{1}' -f $Server, $Port)
+    try {
+      $baseUri = ('https://{0}:{1}' -f $Server, $Port)
 
-    $proxyDestinationUrlThumbprints = 'sha256=newThumbprint'
+      $base64 = [System.Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes(('{0}:{1}' -f $credential.GetNetworkCredential().UserName, $credential.GetNetworkCredential().Password)))
 
-    $base64 = [System.Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes(('{0}:{1}' -f $credential.GetNetworkCredential().UserName, $credential.GetNetworkCredential().Password)))
+      $headers = @{
+        'Content-Type' = 'application/json;charset=UTF-8'
+        'Authorization' = ('Basic {0}' -f $base64)
+      }
 
-    $headers = @{
-      'Content-Type' = 'application/json;charset=UTF-8'
-      'Authorization' = ('Basic {0}' -f $base64)
-    }
+      $splat = @{}
 
-    $splat = @{}
+      if ($PSBoundParameters.ContainsKey('SkipCertificateCheck')) {
+          if ((Get-Command -Name Invoke-RestMethod).Parameters.ContainsKey('SkipCertificateCheck')) {
+            $splat.Add('SkipCertificateCheck', $true)
+          }
+          else {
+            Add-Type -TypeDefinition $code -Language CSharp
+            [System.Net.ServicePointManager]::CertificatePolicy = New-Object TrustAllCertsPolicy
+          }
+      }
 
-    if ($PSBoundParameters.ContainsKey('SkipCertificateCheck')) {
-        $splat.Add('SkipCertificateCheck', $true)
-    }
+      $splat.Add('Headers', $headers)
 
-    $splat.Add('Headers', $headers)
-
-    $horizon = (Invoke-RestMethod -Method GET -Uri ('{0}/rest/v1/config/edgeservice' -f $baseUri) @splat)
-
-    $psObject = $horizon.edgeServiceSettingsList | ConvertTo-Json -Depth 5 | ConvertFrom-Json -Depth 5
-
-    $psObject.proxyDestinationUrlThumbprints = $HorizonConnectionServerThumbprint
-    $psObject.proxyDestinationUrl = $HorizonConnectionServerUrl
-
-    $body = $psObject | ConvertTo-Json -Depth 5
-
-    if ($PSCmdlet.ShouldProcess($HorizonConnectionServerThumbprint, $HorizonConnectionServerUri)) {
       $horizon = (Invoke-RestMethod -Method GET -Uri ('{0}/rest/v1/config/edgeservice' -f $baseUri) @splat)
-   
-      $response = (Invoke-RestMethod -Method PUT -Uri ('{0}/rest/v1/config/edgeservice/view' -f $baseUri) -Body $body @splat)
-    }
 
-    if ($PSBoundParameters.ContainsKey('PassThru')) {
-      $response
+      $psObject = $horizon.edgeServiceSettingsList | ConvertTo-Json | ConvertFrom-Json 
+
+      $psObject.proxyDestinationUrlThumbprints = $HorizonConnectionServerThumbprint
+      $psObject.proxyDestinationUrl = $HorizonConnectionServerUrl
+
+      $body = $psObject | ConvertTo-Json
+
+      if ($PSCmdlet.ShouldProcess($HorizonConnectionServerThumbprint, $HorizonConnectionServerUri)) {
+        $horizon = (Invoke-RestMethod -Method GET -Uri ('{0}/rest/v1/config/edgeservice' -f $baseUri) @splat)
+    
+        $response = (Invoke-RestMethod -Method PUT -Uri ('{0}/rest/v1/config/edgeservice/view' -f $baseUri) -Body $body @splat)
+      }
+
+      if ($PSBoundParameters.ContainsKey('PassThru')) {
+        $response
+      }
+    }
+    catch {
+      throw $_
     }
   }
 
