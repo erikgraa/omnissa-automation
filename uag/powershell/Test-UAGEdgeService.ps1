@@ -1,5 +1,33 @@
-﻿function Test-UAGEdgeService {
+﻿  <#
+    .DESCRIPTION
+    Tests Horizon Edge Services Settings on an UAG.
+
+    .PARAMETER Server
+    Specifies the UAG server.
+
+    .PARAMETER Port
+    Specifies the UAG port.
+
+    .PARAMETER Credential
+    Specifies the credential with which to log onto the UAG.
+
+    .EXAMPLE
+    Test-UAGEdgeService -ComputerName 'vdi.fqdn'
+
+    .EXAMPLE
+    Test-UAGEdgeService -ComputerName 'vdi.fqdn' -InformationLevel Detailed    
+
+    .OUTPUTS
+    Bool.
+    PSCustomObject.
+
+    .LINK
+    https://uag.fqdn:9443/swagger-ui/index.html
+#>
+
+function Test-UAGEdgeService {
   [CmdletBinding()]
+  [OutputType([Bool], [PSCustomObject])]
   param(
     [Parameter(Mandatory = $true)]
     [ValidateNotNullOrEmpty()]

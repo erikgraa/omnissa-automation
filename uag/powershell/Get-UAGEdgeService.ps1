@@ -1,5 +1,29 @@
-﻿function Get-UAGEdgeService {
+﻿  <#
+    .DESCRIPTION
+    Retrieves Horizon Edge Services Settings on an UAG.
+
+    .PARAMETER Server
+    Specifies the UAG server.
+
+    .PARAMETER Port
+    Specifies the UAG port.
+
+    .PARAMETER Credential
+    Specifies the credential with which to log onto the UAG.
+
+    .EXAMPLE
+    Get-UAGEdgeService -ComputerName 'vdi.fqdn'
+
+    .OUTPUTS
+    PSCustomObject.
+
+    .LINK
+    https://uag.fqdn:9443/swagger-ui/index.html
+#>
+
+function Get-UAGEdgeService {
   [CmdletBinding()]
+  [OutputType([PSCustomObject])]
   param(
     [Parameter(Mandatory = $true)]
     [ValidateNotNullOrEmpty()]

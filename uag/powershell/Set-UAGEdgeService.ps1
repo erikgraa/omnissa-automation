@@ -1,5 +1,36 @@
-﻿function Set-UAGEdgeService {
+﻿  <#
+    .DESCRIPTION
+    Sets Horizon Connection Server URL and thumbprint for the Horizon edge service on an UAG.
+
+    .PARAMETER Server
+    Specifies the UAG server.
+
+    .PARAMETER Port
+    Specifies the UAG port.
+
+    .PARAMETER Credential
+    Specifies the credential with which to log onto the UAG.
+
+    .PARAMETER HorizonConnectionServerUrl
+    Horizon Connection Server URL.
+
+    .PARAMETER $HorizonConnectionServerThumbprint
+    Horizon Connection Server SHA256 thumbprint.
+
+    .EXAMPLE
+    Set-UAGEdgeService -ComputerName 'vdi.fqdn' -HorizonConnectionServerUrl 'https://cs.fqdn' -HorizonConnectionServerThumbprint 'sha256-thumbprint'
+
+    .OUTPUTS
+    Void.
+    PSCustomObject.
+
+    .LINK
+    https://uag.fqdn:9443/swagger-ui/index.html
+#>
+
+function Set-UAGEdgeService {
   [CmdletBinding(SupportsShouldProcess=$true, ConfirmImpact = 'Medium')]
+  [OutputType([Void], [PSCustomObject])]
   param(
     [Parameter(Mandatory = $true)]
     [ValidateNotNullOrEmpty()]
@@ -39,10 +70,11 @@ $code= @"
             }
         }
 "@    
-  }
 
-  process {
-    try {
+    if (-not($HorizonConnectionServerUrl -match 'https://')) {
+      $HorizonConnectionServerUrl = ('https://{0}' -f $HorizonConnectionServerUrl)
+    }
+
       $baseUri = ('https://{0}:{1}' -f $Server, $Port)
 
       $base64 = [System.Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes(('{0}:{1}' -f $credential.GetNetworkCredential().UserName, $credential.GetNetworkCredential().Password)))
@@ -64,8 +96,11 @@ $code= @"
           }
       }
 
-      $splat.Add('Headers', $headers)
+      $splat.Add('Headers', $headers)    
+  }
 
+  process {
+    try {
       $edgeService = (Invoke-RestMethod -Method GET -Uri ('{0}/rest/v1/config/edgeservice' -f $baseUri) @splat)
 
       $psObject = $edgeService.edgeServiceSettingsList | ConvertTo-Json | ConvertFrom-Json 
