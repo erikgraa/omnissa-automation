@@ -70,10 +70,6 @@ $code= @"
 
       $psObject = $edgeService.edgeServiceSettingsList | ConvertTo-Json | ConvertFrom-Json 
 
-      if ($HorizonConnectionServerThumbprint.NotContains('sha256=')) {
-        $HorizonConnectionServerThumbprint = ('sha256={0}' -f $HorizonConnectionServerThumbprint)
-      }
-
       $psObject.proxyDestinationUrlThumbprints = $HorizonConnectionServerThumbprint
       $psObject.proxyDestinationUrl = $HorizonConnectionServerUrl
 
