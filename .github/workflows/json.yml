@@ -1,0 +1,39 @@
+on:
+  push:
+    branches:
+      - 'main'
+      - 'feature/test'
+      - 'releases/**'
+  schedule:
+    - cron: "0 6 * * *"      
+  workflow_dispatch:      
+
+name: "Update Omnissa Ports and Protocols JSON"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Save Omnissa Ports and Protocols JSON
+        shell: pwsh
+        run: |
+          Import-Module ('{0}\misc\powershell\Get-OmnissaPortList.ps1' -f $env:GITHUB_WORKSPACE) 
+          $folderName = 'json'
+          $folderPath = ('{0}\{1}\ports' -f $env:GITHUB_WORKSPACE, $folderName)
+          if (-not(Test-Path -Path $folderPath -PathType Container -ErrorAction SilentlyContinue)) {
+            $null = New-Item -Path $folderPath -ItemType Directory -Force -ErrorAction Stop
+          }
+          foreach ($_product in (Get-OmnissaPortList).GetEnumerator()) {
+            $_product.Value | ConvertTo-Json -Depth 10 | Out-File -FilePath ('{0}\{1}.json' -f $folderPath, $_product.Key.Replace(' ','_')) -Encoding utf8          
+          }
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: "Auto Omnissa Ports and Protocols JSON"
+          add: "."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
