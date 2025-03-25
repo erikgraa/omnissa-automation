@@ -1,0 +1,240 @@
+[
+  {
+    "id": "60ab2b8038232300288011a4",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "UEM Console Hostname",
+    "destination": "ENS2",
+    "serviceDescription": "Used to provision tenant on ENS2 via UEM Console",
+    "purpose": "Communication between UEM Console and ENS2 ",
+    "classification": "uni-directional (inbound)",
+    "submissionId": "kavinash-1621957447965",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2021-05-22 00:00",
+    "product": {
+      "id": "609aa93373814c001620a57f",
+      "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "rmProductId": 644
+    },
+    "releases": [
+      {
+        "id": "60a670e4382323002880119c",
+        "releaseName": "WS1 ENS2 OnPrem 21.04",
+        "displayName": "21.04",
+        "rmReleaseId": 7267,
+        "product": {
+          "id": "609aa93373814c001620a57f",
+          "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "rmProductId": 644
+        }
+      }
+    ]
+  },
+  {
+    "id": "60ab2b8038232300288011a3",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "ENS2",
+    "destination": "signing.awmdm.com",
+    "serviceDescription": "Used to get new certificates, renewing near-expiry certificates from AirWatch Signing Service",
+    "purpose": "Communication with AirWatch Signing Service",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "kavinash-1621957447965",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2021-05-22 00:00",
+    "product": {
+      "id": "609aa93373814c001620a57f",
+      "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "rmProductId": 644
+    },
+    "releases": [
+      {
+        "id": "60a670e4382323002880119c",
+        "releaseName": "WS1 ENS2 OnPrem 21.04",
+        "displayName": "21.04",
+        "rmReleaseId": 7267,
+        "product": {
+          "id": "609aa93373814c001620a57f",
+          "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "rmProductId": 644
+        }
+      }
+    ]
+  },
+  {
+    "id": "60ab2b8038232300288011a2",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Internet (Devices)",
+    "destination": "ENS2",
+    "serviceDescription": "Get request from internet (Boxer Client) ",
+    "purpose": "Communication with Boxer App",
+    "classification": "uni-directional (inbound)",
+    "submissionId": "kavinash-1621957447965",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2021-05-22 00:00",
+    "product": {
+      "id": "609aa93373814c001620a57f",
+      "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "rmProductId": 644
+    },
+    "releases": [
+      {
+        "id": "60a670e4382323002880119c",
+        "releaseName": "WS1 ENS2 OnPrem 21.04",
+        "displayName": "21.04",
+        "rmReleaseId": 7267,
+        "product": {
+          "id": "609aa93373814c001620a57f",
+          "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "rmProductId": 644
+        }
+      }
+    ]
+  },
+  {
+    "id": "60ab2b8038232300288011a1",
+    "port": "1433",
+    "protocol": "SQL",
+    "source": "ENS2",
+    "destination": "SQL Server Instance",
+    "serviceDescription": "SQL connection to Data Store",
+    "purpose": "SQL Connection to store and retrive data",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "kavinash-1621957447965",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2021-05-22 00:00",
+    "product": {
+      "id": "609aa93373814c001620a57f",
+      "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "rmProductId": 644
+    },
+    "releases": [
+      {
+        "id": "60a670e4382323002880119c",
+        "releaseName": "WS1 ENS2 OnPrem 21.04",
+        "displayName": "21.04",
+        "rmReleaseId": 7267,
+        "product": {
+          "id": "609aa93373814c001620a57f",
+          "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "rmProductId": 644
+        }
+      }
+    ]
+  },
+  {
+    "id": "60ab2b80382323002880119f",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Exchange Mailbox/CAS (EWS)",
+    "destination": "ENS2",
+    "serviceDescription": "Used to receive mailbox events from Exchange.",
+    "purpose": "Communication between Exchange(EWS) and ENS2",
+    "classification": "bi-directional",
+    "submissionId": "kavinash-1621957447965",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2021-05-22 00:00",
+    "product": {
+      "id": "609aa93373814c001620a57f",
+      "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "rmProductId": 644
+    },
+    "releases": [
+      {
+        "id": "60a670e4382323002880119c",
+        "releaseName": "WS1 ENS2 OnPrem 21.04",
+        "displayName": "21.04",
+        "rmReleaseId": 7267,
+        "product": {
+          "id": "609aa93373814c001620a57f",
+          "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "rmProductId": 644
+        }
+      }
+    ]
+  },
+  {
+    "id": "60ab2b8038232300288011a0",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "ENS2",
+    "destination": "Cloud Notification Service (CNS)",
+    "serviceDescription": "Used to send notification payload to CNS once ENS receives created/mailevent from Exchange. ",
+    "purpose": "Communication with CNS to send notifications to Boxer",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "kavinash-1621957447965",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2021-05-22 00:00",
+    "product": {
+      "id": "609aa93373814c001620a57f",
+      "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "rmProductId": 644
+    },
+    "releases": [
+      {
+        "id": "60a670e4382323002880119c",
+        "releaseName": "WS1 ENS2 OnPrem 21.04",
+        "displayName": "21.04",
+        "rmReleaseId": 7267,
+        "product": {
+          "id": "609aa93373814c001620a57f",
+          "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "rmProductId": 644
+        }
+      }
+    ]
+  },
+  {
+    "id": "60ab2b80382323002880119e",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "ENS2",
+    "destination": "Exchange Mailbox/CAS (EWS)",
+    "serviceDescription": "Used to subscribe users with Exchange(EWS) for notifications.",
+    "purpose": "Communication between Exchange(EWS) and ENS2",
+    "classification": "bi-directional",
+    "submissionId": "kavinash-1621957447965",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2021-05-22 00:00",
+    "product": {
+      "id": "609aa93373814c001620a57f",
+      "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+      "rmProductId": 644
+    },
+    "releases": [
+      {
+        "id": "60a670e4382323002880119c",
+        "releaseName": "WS1 ENS2 OnPrem 21.04",
+        "displayName": "21.04",
+        "rmReleaseId": 7267,
+        "product": {
+          "id": "609aa93373814c001620a57f",
+          "productName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "displayName": "Workspace ONE Email Notification Service 2 for On-Premises",
+          "rmProductId": 644
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "62c75ececb6acc7f385f5840",
+    "port": "11211",
+    "protocol": "TCP",
+    "source": "Workspace ONE Access Services",
+    "destination": "Memcached",
+    "serviceDescription": "Application Data over TCP",
+    "purpose": "Memcached outbound communications",
+    "classification": "Outbound",
+    "submissionId": "spramod-1657233102397",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2022-07-04 00:00",
+    "product": {
+      "id": "621ce25a68fc52301f5e3d01",
+      "productName": "Omnissa Access Hosted",
+      "displayName": "Omnissa Access Hosted",
+      "rmProductId": 922
+    },
+    "releases": [
+      {
+        "id": "621f2cb61e4523793c1c96c6",
+        "releaseName": "WS1 Access Hosted latest",
+        "displayName": "Cloud Service",
+        "rmReleaseId": 2995,
+        "product": {
+          "id": "621ce25a68fc52301f5e3d01",
+          "productName": "Omnissa Access Hosted",
+          "displayName": "Omnissa Access Hosted",
+          "rmProductId": 922
+        }
+      }
+    ]
+  },
+  {
+    "id": "62c75ececb6acc7f385f583f",
+    "port": "5262",
+    "protocol": "TCP",
+    "source": "Workspace ONE Access Services",
+    "destination": "Devices",
+    "serviceDescription": "Android single sign-on (SSO)",
+    "purpose": "External requests from the Android device for Android SSO",
+    "classification": "Outbound",
+    "submissionId": "spramod-1657233102397",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2022-07-04 00:00",
+    "product": {
+      "id": "621ce25a68fc52301f5e3d01",
+      "productName": "Omnissa Access Hosted",
+      "displayName": "Omnissa Access Hosted",
+      "rmProductId": 922
+    },
+    "releases": [
+      {
+        "id": "621f2cb61e4523793c1c96c6",
+        "releaseName": "WS1 Access Hosted latest",
+        "displayName": "Cloud Service",
+        "rmReleaseId": 2995,
+        "product": {
+          "id": "621ce25a68fc52301f5e3d01",
+          "productName": "Omnissa Access Hosted",
+          "displayName": "Omnissa Access Hosted",
+          "rmProductId": 922
+        }
+      }
+    ]
+  },
+  {
+    "id": "62c75ececb6acc7f385f583e",
+    "port": "443",
+    "protocol": "TCP",
+    "source": "Workspace ONE Access Services",
+    "destination": "*",
+    "serviceDescription": "HTTPS requests",
+    "purpose": "AWS services, On-premises access registration, and other WS1 Access services",
+    "classification": "Outbound",
+    "submissionId": "spramod-1657233102397",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2022-07-04 00:00",
+    "product": {
+      "id": "621ce25a68fc52301f5e3d01",
+      "productName": "Omnissa Access Hosted",
+      "displayName": "Omnissa Access Hosted",
+      "rmProductId": 922
+    },
+    "releases": [
+      {
+        "id": "621f2cb61e4523793c1c96c6",
+        "releaseName": "WS1 Access Hosted latest",
+        "displayName": "Cloud Service",
+        "rmReleaseId": 2995,
+        "product": {
+          "id": "621ce25a68fc52301f5e3d01",
+          "productName": "Omnissa Access Hosted",
+          "displayName": "Omnissa Access Hosted",
+          "rmProductId": 922
+        }
+      }
+    ]
+  },
+  {
+    "id": "62c75ececb6acc7f385f583d",
+    "port": "443, 80, 8080",
+    "protocol": "TCP",
+    "source": "Workspace ONE Access Services",
+    "destination": "OCSP responders, CRL servers, UEM servers, DUO servers, Okta servers, App approval servers, *",
+    "serviceDescription": "HTTP/HTTPS requests",
+    "purpose": "OCSP responders, CRL servers, UEM servers, DUO servers, Okta servers, App approval servers, and other WS1 Access services",
+    "classification": "Outbound",
+    "submissionId": "spramod-1657233102397",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2022-07-04 00:00",
+    "product": {
+      "id": "621ce25a68fc52301f5e3d01",
+      "productName": "Omnissa Access Hosted",
+      "displayName": "Omnissa Access Hosted",
+      "rmProductId": 922
+    },
+    "releases": [
+      {
+        "id": "621f2cb61e4523793c1c96c6",
+        "releaseName": "WS1 Access Hosted latest",
+        "displayName": "Cloud Service",
+        "rmReleaseId": 2995,
+        "product": {
+          "id": "621ce25a68fc52301f5e3d01",
+          "productName": "Omnissa Access Hosted",
+          "displayName": "Omnissa Access Hosted",
+          "rmProductId": 922
+        }
+      }
+    ]
+  },
+  {
+    "id": "62c75ececb6acc7f385f583c",
+    "port": "443",
+    "protocol": "TCP",
+    "source": "Workspace ONE Access Services",
+    "destination": "*",
+    "serviceDescription": "HTTPS requests",
+    "purpose": "HTTPS requests to services needed for EC2 instance to run: Yum repositories, AWS services, other micro-services.",
+    "classification": "Outbound",
+    "submissionId": "spramod-1657233102397",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2022-07-04 00:00",
+    "product": {
+      "id": "621ce25a68fc52301f5e3d01",
+      "productName": "Omnissa Access Hosted",
+      "displayName": "Omnissa Access Hosted",
+      "rmProductId": 922
+    },
+    "releases": [
+      {
+        "id": "621f2cb61e4523793c1c96c6",
+        "releaseName": "WS1 Access Hosted latest",
+        "displayName": "Cloud Service",
+        "rmReleaseId": 2995,
+        "product": {
+          "id": "621ce25a68fc52301f5e3d01",
+          "productName": "Omnissa Access Hosted",
+          "displayName": "Omnissa Access Hosted",
+          "rmProductId": 922
+        }
+      }
+    ]
+  },
+  {
+    "id": "62c75ececb6acc7f385f583b",
+    "port": "123",
+    "protocol": "UDP",
+    "source": "Workspace ONE Access Services",
+    "destination": "NTP",
+    "serviceDescription": "NTP requests",
+    "purpose": "NTP requests to time servers",
+    "classification": "Outbound",
+    "submissionId": "spramod-1657233102397",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2022-07-04 00:00",
+    "product": {
+      "id": "621ce25a68fc52301f5e3d01",
+      "productName": "Omnissa Access Hosted",
+      "displayName": "Omnissa Access Hosted",
+      "rmProductId": 922
+    },
+    "releases": [
+      {
+        "id": "621f2cb61e4523793c1c96c6",
+        "releaseName": "WS1 Access Hosted latest",
+        "displayName": "Cloud Service",
+        "rmReleaseId": 2995,
+        "product": {
+          "id": "621ce25a68fc52301f5e3d01",
+          "productName": "Omnissa Access Hosted",
+          "displayName": "Omnissa Access Hosted",
+          "rmProductId": 922
+        }
+      }
+    ]
+  }
+]

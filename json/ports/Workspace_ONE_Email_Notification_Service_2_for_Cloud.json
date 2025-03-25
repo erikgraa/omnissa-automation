@@ -1,0 +1,70 @@
+[
+  {
+    "id": "60ab722abe82d90019c5c1ee",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "UEM Console Hostname",
+    "destination": "ENS2",
+    "serviceDescription": "Used to get request from UEM",
+    "purpose": "Communication between UEM Console and ENS ",
+    "classification": "uni-directional (inbound)",
+    "submissionId": "kavinash-1621957472100",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2021-05-22 00:00",
+    "product": {
+      "id": "60a672e073814c001620a588",
+      "productName": "Workspace ONE Email Notification Service 2 for Cloud",
+      "displayName": "Workspace ONE Email Notification Service 2 for Cloud",
+      "rmProductId": 1151
+    },
+    "releases": [
+      {
+        "id": "60a67ed2382323002880119d",
+        "releaseName": "WS1 ENS2 SaaS Latest",
+        "displayName": "Workspace ONE EMail Notification Service 2 for Cloud",
+        "rmReleaseId": 5420,
+        "product": {
+          "id": "60a672e073814c001620a588",
+          "productName": "Workspace ONE Email Notification Service 2 for Cloud",
+          "displayName": "Workspace ONE Email Notification Service 2 for Cloud",
+          "rmProductId": 1151
+        }
+      }
+    ]
+  },
+  {
+    "id": "60ab7229be82d90019c5c1ed",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Exchange  Mailbox/CAS (EWS)",
+    "destination": "ENS2",
+    "serviceDescription": "Used by exchange to send events(status/created) to ENS.",
+    "purpose": "Communication Exchange(EWS) to ENS",
+    "classification": "bi-directional",
+    "submissionId": "kavinash-1621957472100",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2021-05-22 00:00",
+    "product": {
+      "id": "60a672e073814c001620a588",
+      "productName": "Workspace ONE Email Notification Service 2 for Cloud",
+      "displayName": "Workspace ONE Email Notification Service 2 for Cloud",
+      "rmProductId": 1151
+    },
+    "releases": [
+      {
+        "id": "60a67ed2382323002880119d",
+        "releaseName": "WS1 ENS2 SaaS Latest",
+        "displayName": "Workspace ONE EMail Notification Service 2 for Cloud",
+        "rmReleaseId": 5420,
+        "product": {
+          "id": "60a672e073814c001620a588",
+          "productName": "Workspace ONE Email Notification Service 2 for Cloud",
+          "displayName": "Workspace ONE Email Notification Service 2 for Cloud",
+          "rmProductId": 1151
+        }
+      }
+    ]
+  }
+]
