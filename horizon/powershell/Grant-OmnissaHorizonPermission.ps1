@@ -1,4 +1,22 @@
-﻿function Grant-OmnissaHorizonPermission {
+﻿ <#
+  .DESCRIPTION
+  Grants administrator privileges on an Omnissa Horizon Connection Server.
+
+  .EXAMPLE
+  Grant-OmnissaHorizonPermission -Server 'connectionserver.fqdn' -Credential $credential
+
+  .MISCELLANEOUS
+  Tested on Omnissa Horizon 2406.
+
+  .OUTPUTS
+  None.
+
+  .LINK
+  https://developer.omnissa.com/horizon-apis
+#>
+
+
+function Grant-OmnissaHorizonPermission {
   [CmdletBinding()]
   param(
     [Parameter(Mandatory = $true)]

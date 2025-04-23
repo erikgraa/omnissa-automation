@@ -1,4 +1,21 @@
-﻿function Grant-OmnissaHorizonEntitlement {
+﻿ <#
+  .DESCRIPTION
+  Grants entitlement on an Omnissa Horizon Desktop Pool.
+
+  .EXAMPLE
+  Grant-OmnissaHorizonEntitlement -Server 'connectionserver.fqdn' -Credential $credential
+
+  .MISCELLANEOUS
+  Tested on Omnissa Horizon 2406.
+
+  .OUTPUTS
+  None.
+
+  .LINK
+  https://developer.omnissa.com/horizon-apis
+#>
+
+function Grant-OmnissaHorizonEntitlement {
   [CmdletBinding()]
   param(
     [Parameter(Mandatory = $true)]
