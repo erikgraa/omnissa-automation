@@ -88,10 +88,12 @@ function Trace-OmnissaHorizonSession {
         $machine = Invoke-RestMethod -Uri ('{0}\{1}' -f $machineUri, $_session.machine_id) -Headers $headers
         $desktopPool = Invoke-RestMethod -Uri ('{0}\{1}' -f $desktopPoolUri, $_session.desktop_pool_id) -Headers $headers
 
+        $_session
         $hash.Add('HostName', $_session.client_data.name)
         $hash.Add('IPAddress', $_session.client_data.address)
         $hash.Add('DesktopPool', $desktopPool.name)
         $hash.Add('Machine', $machine.dns_name)
+        $hash.Add('State', $_session.session_state)
         $hash.Add('SessionStarted', ([DateTimeOffset]::FromUnixTimeSeconds($_session.start_time.ToString().SubString(0,$_session.start_time.ToString().Length-3))))
 
         try {
