@@ -4,6 +4,8 @@ on:
       - 'main'
       - 'feature/test'
       - 'releases/**'
+    paths:
+      - 'misc/Get-OmnissaPortList.ps1'      
   schedule:
     - cron: "0 6 * * *"      
   workflow_dispatch:      
