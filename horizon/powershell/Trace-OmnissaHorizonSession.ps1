@@ -5,7 +5,7 @@
   .EXAMPLE
   Trace-OmnissaHorizonSession -IPAddress 172.16.13.37 -Server 'connectionserver.fqdn' -Credential $credential
 
-  .MISCELLANEOUS
+  .NOTES
   Tested on Omnissa Horizon 2406.
 
   .OUTPUTS
@@ -38,11 +38,15 @@ function Trace-OmnissaHorizonSession {
 
   begin {
     try {
-      if (-not($Server.Split('/')[-1] -eq 'rest')) {
-        $uri = $Server + '/rest'
+      if (-not($Server -match 'https://')) {
+        $uri = 'https://' + $Server
       }
       else {
         $uri = $Server
+      }
+
+      if (-not($Server.Split('/')[-1] -eq 'rest')) {
+        $uri = $uri + '/rest'
       }
 
       $headers = @{ 'Content-Type' = 'application/json' }
