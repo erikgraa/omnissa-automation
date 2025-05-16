@@ -1,5 +1,107 @@
 [
   {
+    "id": "654a76ad30910021b5f7c06d",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Access",
+    "destination": "prod.cns.workspaceone.com",
+    "serviceDescription": "Send push notifications to device when UEM is integrated with the WS1 Access tenant",
+    "purpose": "This is the URL for hosted CNS to be able to send push notifications to the devices.",
+    "classification": "-",
+    "submissionId": "ssultana-1747294945929",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-05-12 00:00",
+    "product": {
+      "id": "5d975c7d9e32b9001601d90e",
+      "productName": "Omnissa Access",
+      "displayName": "Omnissa Access",
+      "rmProductId": 920
+    },
+    "releases": [
+      {
+        "id": "65296e4330910021b5f7bed3",
+        "releaseName": "VMware Workspace ONE® Access 22.09",
+        "displayName": "22.09",
+        "rmReleaseId": 8304,
+        "product": {
+          "id": "5d975c7d9e32b9001601d90e",
+          "productName": "Omnissa Access",
+          "displayName": "Omnissa Access",
+          "rmProductId": 920
+        }
+      }
+    ]
+  },
+  {
+    "id": "6234e87b1c26192bd1f03431",
+    "port": "443",
+    "protocol": "HTTPs",
+    "source": "Devices",
+    "destination": "*.hub-services.workspaceone.com",
+    "serviceDescription": "Required for SaaS deployments of Workspace ONE Access.",
+    "purpose": "Enables SaaS-based Hub-Services related content delivery within Workspace ONE Access.",
+    "classification": "-",
+    "submissionId": "ssultana-1747290409933",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-05-12 00:00",
+    "product": {
+      "id": "5d975c7d9e32b9001601d90e",
+      "productName": "Omnissa Access",
+      "displayName": "Omnissa Access",
+      "rmProductId": 920
+    },
+    "releases": [
+      {
+        "id": "614a2c0988ac9f182c804a7e",
+        "releaseName": "WS1 Access OnPrem 21.08.0.0",
+        "displayName": "WS1 Access OnPrem 21.08.0.0",
+        "rmReleaseId": 5630,
+        "product": {
+          "id": "5d975c7d9e32b9001601d90e",
+          "productName": "Omnissa Access",
+          "displayName": "Omnissa Access",
+          "rmProductId": 920
+        }
+      }
+    ]
+  },
+  {
+    "id": "6529701530910021b5f7bed4",
+    "port": "443",
+    "protocol": "HTTPs",
+    "source": "Devices",
+    "destination": "*.hub-services.workspaceone.com",
+    "serviceDescription": "Required for SaaS deployments of Workspace ONE Access.",
+    "purpose": "Enables SaaS-based Hub-Services related content delivery within Workspace ONE Access.",
+    "classification": "-",
+    "submissionId": "ssultana-1747290409933",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-05-12 00:00",
+    "product": {
+      "id": "5d975c7d9e32b9001601d90e",
+      "productName": "Omnissa Access",
+      "displayName": "Omnissa Access",
+      "rmProductId": 920
+    },
+    "releases": [
+      {
+        "id": "65296e4330910021b5f7bed3",
+        "releaseName": "VMware Workspace ONE® Access 22.09",
+        "displayName": "22.09",
+        "rmReleaseId": 8304,
+        "product": {
+          "id": "5d975c7d9e32b9001601d90e",
+          "productName": "Omnissa Access",
+          "displayName": "Omnissa Access",
+          "rmProductId": 920
+        }
+      }
+    ]
+  },
+  {
     "id": "6529702c30910021b5f7bfe7",
     "port": "443",
     "protocol": "TCP",
@@ -1214,40 +1316,6 @@
         "releaseName": "VMware Identity Manager 19.03",
         "displayName": "19.03",
         "rmReleaseId": 3957,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "654a76ad30910021b5f7c06d",
-    "port": "443",
-    "protocol": "HTTPS",
-    "source": "Access",
-    "destination": "prod.cns.vmwareservices.com",
-    "serviceDescription": "Send push notificaitons to device when UEM is integrated with the WS1 Access tenant",
-    "purpose": "This is the URL for hosted CNS to be able to send push notifications to the devices.",
-    "classification": "-",
-    "submissionId": "spramod-1699378861035",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-11-04 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
         "product": {
           "id": "5d975c7d9e32b9001601d90e",
           "productName": "Omnissa Access",
@@ -11142,74 +11210,6 @@
         "releaseName": "VMware Workspace ONE® Access 22.09",
         "displayName": "22.09",
         "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "6529701530910021b5f7bed4",
-    "port": "443",
-    "protocol": "HTTPs",
-    "source": "Devices",
-    "destination": "*.hub-services.vmwservices.com",
-    "serviceDescription": "Required for SaaS deployments of Workspace ONE Access.",
-    "purpose": "Enables SaaS-based Hub-Services related content delivery within Workspace ONE Access.",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "6234e87b1c26192bd1f03431",
-    "port": "443",
-    "protocol": "HTTPs",
-    "source": "Devices",
-    "destination": "*.hub-services.vmwservices.com",
-    "serviceDescription": "Required for SaaS deployments of Workspace ONE Access.",
-    "purpose": "Enables SaaS-based Hub-Services related content delivery within Workspace ONE Access.",
-    "classification": "-",
-    "submissionId": "bjacoby-1647634601419",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2022-03-15 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "614a2c0988ac9f182c804a7e",
-        "releaseName": "WS1 Access OnPrem 21.08.0.0",
-        "displayName": "WS1 Access OnPrem 21.08.0.0",
-        "rmReleaseId": 5630,
         "product": {
           "id": "5d975c7d9e32b9001601d90e",
           "productName": "Omnissa Access",
