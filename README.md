@@ -11,3 +11,4 @@ This repository contains tools, scripts and other automation related tidbits for
 * https://blog.graa.dev/Omnissa-UAGHorizonPowerShell
 * https://blog.graa.dev/Omnissa-PortsProtocols
 * https://blog.graa.dev/Omnissa-Horizon2503
+* https://blog.graa.dev/Omnissa-HorizonSessionTracingPowerShell

@@ -5,8 +5,14 @@
   .EXAMPLE
   Trace-OmnissaHorizonSession -IPAddress 172.16.13.37 -Server 'connectionserver.fqdn' -Credential $credential
 
+  .EXAMPLE
+  Trace-OmnissaHorizonSession -Server 'connectionserver.fqdn' -Credential $credential  
+
   .NOTES
-  Tested on Omnissa Horizon 2406.
+  Tested on:
+  * Omnissa Horizon 2406
+  * Omnissa Horizon 2503
+  TODO: CPA sessions
 
   .OUTPUTS
   PSCustomObject.
@@ -16,7 +22,7 @@
 #>
 
 function Trace-OmnissaHorizonSession {
-  [CmdletBinding(DefaultParameterSetName = 'IPAddressSet')]
+  [CmdletBinding(DefaultParameterSetName = 'DefaultSet')]
   param(  
     [Parameter(Mandatory = $true, ParameterSetName = 'IPAddressSet')]
     [ValidateNotNullOrEmpty()]
@@ -78,11 +84,13 @@ function Trace-OmnissaHorizonSession {
   }
 
   process {
-    if ($PSCmdlet.ParameterSetName -eq 'IPAddressSet') {
-      $sessions = $sessions | Where-Object { $_.client_data.address -in $IPAddress }
-    }
-    elseif ($PSCmdlet.ParameterSetName -eq 'HostNameSet') {
-      $sessions = $sessions | Where-Object { $_.client_data.name -in $HostName }
+    switch ($PSCmdlet.ParameterSetName) {
+      'HostNameSet' {
+        $sessions = $sessions | Where-Object { $_.client_data.name -in $HostName }
+      }      
+      'IPAddressSet' {
+        $sessions = $sessions | Where-Object { $_.client_data.address -in $IPAddress }
+      }
     }
 
     if ($null -ne $sessions) {
