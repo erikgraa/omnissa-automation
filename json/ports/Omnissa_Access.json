@@ -5,13 +5,13 @@
     "protocol": "HTTPS",
     "source": "Access",
     "destination": "prod.cns.workspaceone.com",
-    "serviceDescription": "Send push notifications to device when UEM is integrated with the WS1 Access tenant",
+    "serviceDescription": "Send push notifications to device when UEM is integrated with the WS1 Access tenant. URL Updated as noted here: https://kb.omnissa.com/s/article/6000843",
     "purpose": "This is the URL for hosted CNS to be able to send push notifications to the devices.",
     "classification": "-",
-    "submissionId": "ssultana-1747294945929",
+    "submissionId": "ssultana-1747672451181",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-05-12 00:00",
+    "publishDate": "2025-05-16 00:00",
     "product": {
       "id": "5d975c7d9e32b9001601d90e",
       "productName": "Omnissa Access",
@@ -1632,40 +1632,6 @@
     ]
   },
   {
-    "id": "6529702e30910021b5f7c000",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "6529702e30910021b5f7bfff",
     "port": "80, 443",
     "protocol": "TCP",
@@ -2251,40 +2217,6 @@
     "destination": "Workspace ONE Access Appliance",
     "serviceDescription": "-",
     "purpose": "Connector to appliance communication.",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "6529702c30910021b5f7bfec",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "spramod-1697214485750",
     "status": "PUBLISHED",
@@ -3672,40 +3604,6 @@
     ]
   },
   {
-    "id": "6529702930910021b5f7bfbf",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "6529702930910021b5f7bfbe",
     "port": "443",
     "protocol": "TCP",
@@ -4291,40 +4189,6 @@
     "destination": "Citrix Integration Broker server",
     "serviceDescription": "Connection to the Citrix Integration Broker. Port option depends on whether a certificate is installed on the Integration Broker server.",
     "purpose": "-",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "6529702730910021b5f7bfab",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "spramod-1697214485750",
     "status": "PUBLISHED",
@@ -5304,40 +5168,6 @@
     ]
   },
   {
-    "id": "6529702430910021b5f7bf8c",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "6529702430910021b5f7bf8b",
     "port": "443",
     "protocol": "TCP",
@@ -5923,40 +5753,6 @@
     "destination": "Citrix Integration Broker server",
     "serviceDescription": "Connection to the Citrix Integration Broker. Port option depends on whether a certificate is installed on the Integration Broker server.",
     "purpose": "-",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "6529702330910021b5f7bf78",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "spramod-1697214485750",
     "status": "PUBLISHED",
@@ -6596,40 +6392,6 @@
     ]
   },
   {
-    "id": "6529702130910021b5f7bf65",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "6529702130910021b5f7bf64",
     "port": "80, 443",
     "protocol": "TCP",
@@ -7215,40 +6977,6 @@
     "destination": "Workspace ONE Access Appliance",
     "serviceDescription": "-",
     "purpose": "Connector to appliance communication.",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "6529701f30910021b5f7bf51",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "spramod-1697214485750",
     "status": "PUBLISHED",
@@ -8228,40 +7956,6 @@
     ]
   },
   {
-    "id": "6529701d30910021b5f7bf32",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "6529701d30910021b5f7bf31",
     "port": "80, 443",
     "protocol": "TCP",
@@ -8847,40 +8541,6 @@
     "destination": "Workspace ONE Access Appliance",
     "serviceDescription": "-",
     "purpose": "Connector to appliance communication.",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "6529701b30910021b5f7bf1e",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "spramod-1697214485750",
     "status": "PUBLISHED",
@@ -10268,40 +9928,6 @@
     ]
   },
   {
-    "id": "6529701830910021b5f7bef1",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "6529701830910021b5f7bef0",
     "port": "443",
     "protocol": "TCP",
@@ -10914,40 +10540,6 @@
     ]
   },
   {
-    "id": "6529701630910021b5f7bedd",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "spramod-1697214485750",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2023-10-10 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "65296e4330910021b5f7bed3",
-        "releaseName": "VMware Workspace ONE® Access 22.09",
-        "displayName": "22.09",
-        "rmReleaseId": 8304,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "6529701630910021b5f7bedc",
     "port": "443",
     "protocol": "TCP",
@@ -11465,40 +11057,6 @@
     "destination": "Workspace ONE Access Appliance",
     "serviceDescription": "Workspace ONE Access login and data traffic.",
     "purpose": "Client device login and access.",
-    "classification": "-",
-    "submissionId": "spramod-1632251477665",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2021-09-18 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "614a2c0988ac9f182c804a7e",
-        "releaseName": "WS1 Access OnPrem 21.08.0.0",
-        "displayName": "WS1 Access OnPrem 21.08.0.0",
-        "rmReleaseId": 5630,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "614a2e5988ac9f182c804b10",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "spramod-1632251477665",
     "status": "PUBLISHED",
@@ -12111,40 +11669,6 @@
     "destination": "Workspace ONE Access Appliance",
     "serviceDescription": "-",
     "purpose": "Connector to appliance communication.",
-    "classification": "-",
-    "submissionId": "spramod-1632251477665",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2021-09-18 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "614a2c0988ac9f182c804a7e",
-        "releaseName": "WS1 Access OnPrem 21.08.0.0",
-        "displayName": "WS1 Access OnPrem 21.08.0.0",
-        "rmReleaseId": 5630,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "614a2e5988ac9f182c804afc",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "spramod-1632251477665",
     "status": "PUBLISHED",
@@ -13532,40 +13056,6 @@
     ]
   },
   {
-    "id": "614a2e5888ac9f182c804acf",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "spramod-1632251477665",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2021-09-18 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "614a2c0988ac9f182c804a7e",
-        "releaseName": "WS1 Access OnPrem 21.08.0.0",
-        "displayName": "WS1 Access OnPrem 21.08.0.0",
-        "rmReleaseId": 5630,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "614a2e5788ac9f182c804ace",
     "port": "443",
     "protocol": "TCP",
@@ -14151,40 +13641,6 @@
     "destination": "Citrix Integration Broker server",
     "serviceDescription": "Connection to the Citrix Integration Broker. Port option depends on whether a certificate is installed on the Integration Broker server.",
     "purpose": "-",
-    "classification": "-",
-    "submissionId": "spramod-1632251477665",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2021-09-18 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "614a2c0988ac9f182c804a7e",
-        "releaseName": "WS1 Access OnPrem 21.08.0.0",
-        "displayName": "WS1 Access OnPrem 21.08.0.0",
-        "rmReleaseId": 5630,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "614a2e5788ac9f182c804abb",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "spramod-1632251477665",
     "status": "PUBLISHED",
@@ -15164,40 +14620,6 @@
     ]
   },
   {
-    "id": "614a2e5688ac9f182c804a9c",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "spramod-1632251477665",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2021-09-18 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "614a2c0988ac9f182c804a7e",
-        "releaseName": "WS1 Access OnPrem 21.08.0.0",
-        "displayName": "WS1 Access OnPrem 21.08.0.0",
-        "rmReleaseId": 5630,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "614a2e5688ac9f182c804a9b",
     "port": "443",
     "protocol": "TCP",
@@ -15783,40 +15205,6 @@
     "destination": "Citrix Integration Broker server",
     "serviceDescription": "Connection to the Citrix Integration Broker. Port option depends on whether a certificate is installed on the Integration Broker server.",
     "purpose": "-",
-    "classification": "-",
-    "submissionId": "spramod-1632251477665",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2021-09-18 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "614a2c0988ac9f182c804a7e",
-        "releaseName": "WS1 Access OnPrem 21.08.0.0",
-        "displayName": "WS1 Access OnPrem 21.08.0.0",
-        "rmReleaseId": 5630,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "614a2e5688ac9f182c804a88",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "spramod-1632251477665",
     "status": "PUBLISHED",
@@ -16456,40 +15844,6 @@
     ]
   },
   {
-    "id": "5f7ba40afa955d0016af760d",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "spramod-1604444404207",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2020-10-31 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "5f7b99dffa955d0016af75af",
-        "releaseName": "WS1 Access OnPrem 20.10.0.0",
-        "displayName": "20.10",
-        "rmReleaseId": 5628,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "5f7ba40afa955d0016af760c",
     "port": "80, 443",
     "protocol": "TCP",
@@ -17075,40 +16429,6 @@
     "destination": "Workspace ONE Access Appliance",
     "serviceDescription": "-",
     "purpose": "Connector to appliance communication.",
-    "classification": "-",
-    "submissionId": "spramod-1604444404207",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2020-10-31 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "5f7b99dffa955d0016af75af",
-        "releaseName": "WS1 Access OnPrem 20.10.0.0",
-        "displayName": "20.10",
-        "rmReleaseId": 5628,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "5f7ba407fa955d0016af75f9",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "spramod-1604444404207",
     "status": "PUBLISHED",
@@ -18088,40 +17408,6 @@
     ]
   },
   {
-    "id": "5f7ba092fa955d0016af75da",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "spramod-1601937550125",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2020-10-02 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "5f2acfa56207040010b9941c",
-        "releaseName": "WS1 Access 20.01.0.0",
-        "displayName": "20.01",
-        "rmReleaseId": 4708,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "5f7ba092fa955d0016af75d9",
     "port": "80, 443",
     "protocol": "TCP",
@@ -18707,40 +17993,6 @@
     "destination": "Workspace ONE Access Appliance",
     "serviceDescription": "-",
     "purpose": "Connector to appliance communication.",
-    "classification": "-",
-    "submissionId": "spramod-1601937550125",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2020-10-02 00:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "5f2acfa56207040010b9941c",
-        "releaseName": "WS1 Access 20.01.0.0",
-        "displayName": "20.01",
-        "rmReleaseId": 4708,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "5f7ba090fa955d0016af75c6",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "spramod-1601937550125",
     "status": "PUBLISHED",
@@ -20128,40 +19380,6 @@
     ]
   },
   {
-    "id": "5d9ad36773ae8f000f5f0dc0",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Appliance",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
-    "classification": "-",
-    "submissionId": "ggordon-1571304215061",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2019-10-15 23:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "5d9ad0b8be70060018a16c92",
-        "releaseName": "VMware Identity Manager 19.03",
-        "displayName": "19.03",
-        "rmReleaseId": 3957,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
     "id": "5d9ad36773ae8f000f5f0dbf",
     "port": "443",
     "protocol": "TCP",
@@ -20747,40 +19965,6 @@
     "destination": "Citrix Integration Broker server",
     "serviceDescription": "Connection to the Citrix Integration Broker. Port option depends on whether a certificate is installed on the Integration Broker server.",
     "purpose": "-",
-    "classification": "-",
-    "submissionId": "ggordon-1571304215061",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2019-10-15 23:00",
-    "product": {
-      "id": "5d975c7d9e32b9001601d90e",
-      "productName": "Omnissa Access",
-      "displayName": "Omnissa Access",
-      "rmProductId": 920
-    },
-    "releases": [
-      {
-        "id": "5d9ad0b8be70060018a16c92",
-        "releaseName": "VMware Identity Manager 19.03",
-        "displayName": "19.03",
-        "rmReleaseId": 3957,
-        "product": {
-          "id": "5d975c7d9e32b9001601d90e",
-          "productName": "Omnissa Access",
-          "displayName": "Omnissa Access",
-          "rmProductId": 920
-        }
-      }
-    ]
-  },
-  {
-    "id": "5d9ad36673ae8f000f5f0dab",
-    "port": "443",
-    "protocol": "TCP",
-    "source": "Workspace ONE Access Connector",
-    "destination": "vapp-updates.vmware.com",
-    "serviceDescription": "Access to the upgrade server.",
-    "purpose": "Required to perform an online upgrade.",
     "classification": "-",
     "submissionId": "ggordon-1571304215061",
     "status": "PUBLISHED",
