@@ -1,18 +1,23 @@
 ﻿ <#
-  .DESCRIPTION
-  Grants entitlement on an Omnissa Horizon Desktop Pool.
+    .SYNOPSIS
+    Grants entitlement on an Omnissa Horizon Desktop Pool.
 
-  .EXAMPLE
-  Grant-OmnissaHorizonEntitlement -Server 'connectionserver.fqdn' -Credential $credential
+    .DESCRIPTION
+    Grants entitlement on an Omnissa Horizon Desktop Pool.
 
-  .NOTES
-  Tested on Omnissa Horizon 2406.
+    .EXAMPLE
+    Grant-OmnissaHorizonEntitlement -Server 'connectionserver.fqdn' -Credential $credential
 
-  .OUTPUTS
-  None.
+    .NOTES
+    Tested on:
+      * Omnissa Horizon 2406
+      * Omnissa Horizon 2503
 
-  .LINK
-  https://developer.omnissa.com/horizon-apis
+    .OUTPUTS
+    None.
+
+    .LINK
+    https://developer.omnissa.com/horizon-apis
 #>
 
 function Grant-OmnissaHorizonEntitlement {

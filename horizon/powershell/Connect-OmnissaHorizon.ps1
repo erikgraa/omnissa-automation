@@ -1,18 +1,21 @@
  <#
-  .DESCRIPTION
-  Connects to a Horizon Connection Server API.
+    .SYNOPSIS
+    Connects to a Horizon Connection Server server's API.
 
-  .EXAMPLE
-  Connect-OmnissaHorizon -Server 'connectionserver.fqdn' -Credential $credential
+    .DESCRIPTION
+    Connects to a Horizon Connection Server server's API.
+  
+    .EXAMPLE
+    Connect-OmnissaHorizon -Server 'connectionserver.fqdn' -Credential $credential
 
-  .NOTES
-  Tested on Omnissa Horizon 2406.
+    .NOTES
+    Tested on Omnissa Horizon 2406 and 2503.
 
-  .OUTPUTS
-  None.
+    .OUTPUTS
+    None.
 
-  .LINK
-  https://developer.omnissa.com/horizon-apis
+    .LINK
+    https://developer.omnissa.com/horizon-apis
 #>
 
 function Connect-OmnissaHorizon {
@@ -25,7 +28,10 @@ function Connect-OmnissaHorizon {
       [Parameter(Mandatory = $true)]
       [ValidateNotNullOrEmpty()]
       [System.Management.Automation.PSCredential]
-      [System.Management.Automation.Credential()]$Credential
+      [System.Management.Automation.Credential()]$Credential,
+
+      [Parameter(Mandatory = $false)]
+      [Switch]$PassThru
     )
   
     begin {
@@ -65,6 +71,10 @@ function Connect-OmnissaHorizon {
             'Server' = $Server
             'AccessToken' = $loginResponse.access_token
             'RefreshToken' = $loginResponse.refresh_token
+        }
+
+        if ($PSBoundParameters.ContainsKey('PassThru')) {
+          $global:OmnissaHorizonConnection
         }
     }
   

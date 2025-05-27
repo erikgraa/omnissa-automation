@@ -1,24 +1,29 @@
 ﻿ <#
-  .DESCRIPTION
-  Retrieves active Omnissa Horizon sessions from given IP addresses and/or hostnames.
+    .SYNOPSIS
+    Retrieves active Omnissa Horizon sessions from given IP addresses and/or hostnames.
+  
+    .DESCRIPTION
+    Retrieves active Omnissa Horizon sessions from given IP addresses and/or hostnames.
 
-  .EXAMPLE
-  Trace-OmnissaHorizonSession -IPAddress 172.16.13.37 -Server 'connectionserver.fqdn' -Credential $credential
+    .EXAMPLE
+    Trace-OmnissaHorizonSession -IPAddress 172.16.13.37 -Server 'connectionserver.fqdn' -Credential $credential
 
-  .EXAMPLE
-  Trace-OmnissaHorizonSession -Server 'connectionserver.fqdn' -Credential $credential  
+    .EXAMPLE
+    Trace-OmnissaHorizonSession -Server 'connectionserver.fqdn' -Credential $credential  
 
-  .NOTES
-  Tested on:
-  * Omnissa Horizon 2406
-  * Omnissa Horizon 2503
-  TODO: CPA sessions
+    .NOTES
+    Tested on:
+      * Omnissa Horizon 2406
+      * Omnissa Horizon 2503
+    TODO: 
+      * Pagination
+      * CPA support
 
-  .OUTPUTS
-  PSCustomObject.
+    .OUTPUTS
+    PSCustomObject.
 
-  .LINK
-  https://developer.omnissa.com/horizon-apis
+    .LINK
+    https://developer.omnissa.com/horizon-apis
 #>
 
 function Trace-OmnissaHorizonSession {
@@ -72,7 +77,13 @@ function Trace-OmnissaHorizonSession {
       $headers.Add('Authorization',('Bearer {0}' -f $loginResponse.access_token))
       $headers.Add('Accept','application/json')
 
-      $sessionUri = ('{0}/inventory/v2/sessions' -f $uri)
+      $sessionUri = if ($PSBoundParameters.ContainsKey('Global')) {
+        ('{0}/inventory/v1/global-sessions' -f $uri)
+      }
+      else {
+        ('{0}/inventory/v2/sessions' -f $uri)
+      }
+
       $machineUri = ('{0}/inventory/v5/machines' -f $uri)
       $desktopPoolUri = ('{0}/inventory/v8/desktop-pools' -f $uri)
 

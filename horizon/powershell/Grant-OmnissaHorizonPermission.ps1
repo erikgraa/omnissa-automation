@@ -1,20 +1,22 @@
 ﻿ <#
-  .DESCRIPTION
-  Grants administrator privileges on an Omnissa Horizon Connection Server.
+    .SYNOPSIS
+    Grants administrator privileges on an Omnissa Horizon Connection Server.
+  
+    .DESCRIPTION
+    Grants administrator privileges on an Omnissa Horizon Connection Server.
 
-  .EXAMPLE
-  Grant-OmnissaHorizonPermission -Server 'connectionserver.fqdn' -Credential $credential
+    .EXAMPLE
+    Grant-OmnissaHorizonPermission -Server 'connectionserver.fqdn' -Credential $credential
 
-  .NOTES
-  Tested on Omnissa Horizon 2406.
+    .NOTES
+    Tested on Omnissa Horizon 2406.
 
-  .OUTPUTS
-  None.
+    .OUTPUTS
+    None.
 
-  .LINK
-  https://developer.omnissa.com/horizon-apis
+    .LINK
+    https://developer.omnissa.com/horizon-apis
 #>
-
 
 function Grant-OmnissaHorizonPermission {
   [CmdletBinding()]

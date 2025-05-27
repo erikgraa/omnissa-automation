@@ -1,15 +1,18 @@
  <#
-  .DESCRIPTION
-  Updates an Omnissa Horizon Connection Server.
+    .SYNOPSIS
+    Updates an Omnissa Horizon Connection Server.    
 
-  .EXAMPLE
-  Update-OmnissaHorizon -FilePath 'Omnissa-Horizon-Connection-Server-x86_64-2503-8.15.0-14365030791.exe'
+    .DESCRIPTION
+    Updates an Omnissa Horizon Connection Server.
 
-  .NOTES
-  Tested on Omnissa Horizon 2406 to 2512.
+    .EXAMPLE
+    Update-OmnissaHorizon -FilePath 'Omnissa-Horizon-Connection-Server-x86_64-2503-8.15.0-14365030791.exe'
 
-  .OUTPUTS
-  None.
+    .NOTES
+    Tested on Omnissa Horizon 2406 to 2503.
+
+    .OUTPUTS
+    None.
 #>
 
 function Update-OmnissaHorizon {
