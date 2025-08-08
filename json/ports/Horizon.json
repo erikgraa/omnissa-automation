@@ -8,10 +8,10 @@
     "serviceDescription": "vRealize Operations for Horizon broker agent monitoring of App Volumes Managers.",
     "purpose": "Monitoring of App Volumes Managers with vRealize Operations.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -240,6 +240,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -258,10 +270,10 @@
     "serviceDescription": "vRealize Operations for Horizon broker agent monitoring of UAG appliances.",
     "purpose": "Monitoring of Unified Access Gateway with vRealize Operations.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -490,6 +502,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -508,10 +532,10 @@
     "serviceDescription": "SOAP messages.",
     "purpose": "Connection Server to vCenter Server communication.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -740,6 +764,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -758,10 +794,10 @@
     "serviceDescription": "JMS to replica Horizon Connection Server for redundancy and scale.",
     "purpose": "Connection Server to Connection Server state data communication.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -990,6 +1026,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -1008,10 +1056,10 @@
     "serviceDescription": "JMS SSL to replica Horizon Connection Server for redundancy and scale.",
     "purpose": "Connection Server to Connection Server state data communication.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -1240,6 +1288,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -1258,10 +1318,10 @@
     "serviceDescription": "Cluster master secret.",
     "purpose": "Used during installation of a replica Horizon Connection Server and when rekeying.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -1490,6 +1550,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -1508,10 +1580,10 @@
     "serviceDescription": "Used only during installation of a replica Horizon Connection Server.",
     "purpose": "Connection Server to Connection Server communication.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -1740,6 +1812,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -1758,10 +1842,10 @@
     "serviceDescription": "Cloud Pod Architecture ADLDS.",
     "purpose": "Global LDAP replication.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -1990,6 +2074,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -2008,10 +2104,10 @@
     "serviceDescription": "MS-RPC endpoint mapper. ",
     "purpose": "Required for Cloud Pod Architecture (CPA) LDAP communication. ",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -2240,6 +2336,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -2258,10 +2366,10 @@
     "serviceDescription": "Cloud Pod Architecture ADLDS.",
     "purpose": "Secure global LDAP replication.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -2490,6 +2598,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -2508,10 +2628,10 @@
     "serviceDescription": "Cloud Pod Architecture inter-pod VIPA.",
     "purpose": "Interpod communication in Cloud Pod Architecture. ",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -2740,6 +2860,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -2758,10 +2890,10 @@
     "serviceDescription": "MS-RPC dynamic client port range. ",
     "purpose": "Required for Cloud Pod Architecture (CPA) LDAP communication. ",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -2990,6 +3122,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -3008,10 +3152,10 @@
     "serviceDescription": "If using a Microsoft SQL database for events data (default port is 1433)",
     "purpose": "Horizon Connection Server to to SQL database for events data.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -3240,6 +3384,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -3258,10 +3414,10 @@
     "serviceDescription": "If using an Oracle database for events data.",
     "purpose": "Horizon Connection Server to to Oracle database for events data.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -3490,6 +3646,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -3508,10 +3676,10 @@
     "serviceDescription": "Framework channel",
     "purpose": "Connection Server to Enrollment Server communication.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -3740,6 +3908,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -3758,10 +3938,10 @@
     "serviceDescription": "-",
     "purpose": "Administrator access to Horizon Cloud Connector.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -3990,6 +4170,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -4008,10 +4200,10 @@
     "serviceDescription": "-",
     "purpose": "Administrator access to Horizon Cloud Connector.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -4240,6 +4432,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -4258,10 +4462,10 @@
     "serviceDescription": "SOAP",
     "purpose": "vCenter Server to vSphere ESXi hosts communication.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -4490,6 +4694,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -4508,10 +4724,10 @@
     "serviceDescription": "Login.",
     "purpose": "External Horizon client device login traffic via Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -4740,6 +4956,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -4758,10 +4986,10 @@
     "serviceDescription": "Other authentication sources such as RADIUS.\n\nDefault value for RADIUS is shown but is configurable.",
     "purpose": "Allows integration to RADIUS solution for use as authentication method.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -4990,6 +5218,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -5008,10 +5248,10 @@
     "serviceDescription": "Enrollment Server also communicates with the domain controllers, using all relevant ports to discover a DC and bind and query the Active Directory.",
     "purpose": "See https://support.microsoft.com/en-us/help/832017#method1 and https://support.microsoft.com/en-us/help/832017#method12 ",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -5240,6 +5480,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -5258,10 +5510,10 @@
     "serviceDescription": "Horizon 7 HTML Access.",
     "purpose": "Internal HTML client login and display protocol traffic.",
     "classification": "Internal",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -5490,6 +5742,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -5508,10 +5772,10 @@
     "serviceDescription": "Horizon 7 HTML Access.",
     "purpose": "Tunneled HTML client login and display protocol traffic.",
     "classification": "Tunneled connection ports",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -5740,6 +6004,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -5758,10 +6034,10 @@
     "serviceDescription": "Two-factor authentication. Default value is shown. This port is configurable.",
     "purpose": "Allows integration to RSA SecurID for use as authentication method.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -5990,6 +6266,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -6008,10 +6296,10 @@
     "serviceDescription": "-",
     "purpose": "Integation of Horizon Cloud Connector to Horizon 7.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -6240,6 +6528,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -6258,10 +6558,10 @@
     "serviceDescription": "https://<Unified Access Gateway FQDN or IP Address>:9443/admin/",
     "purpose": "Administrator access to Unified Access Gateway admin console.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -6490,6 +6790,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -6508,10 +6820,10 @@
     "serviceDescription": "The enrollment service uses TCP 135 RPC for the initial communication with the CA, then random port from 1024-5000 and 4192-65535.\nSee Certificate Services in https://support.microsoft.com/en-us/help/832017#method4 ",
     "purpose": "Enrollment server requests certificate from Microsoft Certificate Authority (CA) to generate a temporary, short-lived certificate.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -6740,6 +7052,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -6758,10 +7082,10 @@
     "serviceDescription": "https://<Connection Server FQDN>/admin\nhttps://<Connection Server FQDN>/newadmin",
     "purpose": "Administrator access to Horizon Connection Server admin console.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -6990,6 +7314,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -7008,10 +7344,10 @@
     "serviceDescription": "https://<vCenter Server FQDN>/",
     "purpose": "Administrator access to vCenter Server vSphere Client.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -7240,6 +7576,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -7258,10 +7606,10 @@
     "serviceDescription": "Application Data over TLS.",
     "purpose": "Recording data transmission.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -7418,6 +7766,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -7436,10 +7796,10 @@
     "serviceDescription": "PostgreSQL database (default port is 5432).",
     "purpose": "Network ports for connections from a Horizon Recording Server to PostgreSQL database.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -7596,6 +7956,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -7614,10 +7986,10 @@
     "serviceDescription": "Microsoft SQL Server database (default port is 1433).",
     "purpose": "Network ports for connections from a Horizon Recording Server to Microsfot SQL Server database.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -7774,6 +8146,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -7792,10 +8176,10 @@
     "serviceDescription": "LDAPS",
     "purpose": "If LDAPS is integrated with server for web console login.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -7952,6 +8336,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -7970,10 +8366,10 @@
     "serviceDescription": "-",
     "purpose": "Configuration import from one recording server to another.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -8130,6 +8526,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -8148,10 +8556,10 @@
     "serviceDescription": "[https://%3cRecording]https://<Recording Server FQDN or IP>:9443",
     "purpose": "Administrator access to Horizon Recording Server web console.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -8308,6 +8716,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -8326,10 +8746,10 @@
     "serviceDescription": "PCoIP for a tunneled connection.",
     "purpose": "PCoIP display protocol session traffic tunneled through Connection Server.",
     "classification": "Tunneled connection ports",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -8570,6 +8990,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -8588,10 +9020,10 @@
     "serviceDescription": "PCoIP for a tunneled connection.",
     "purpose": "PCoIP display protocol session initiation tunneled through Connection Server.",
     "classification": "Tunneled connection ports",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -8832,6 +9264,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -8850,10 +9294,10 @@
     "serviceDescription": "Blast Extreme for a tunneled connection.",
     "purpose": "Blast display protocol session traffic tunneled through Connection Server.",
     "classification": "Tunneled connection ports",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -9094,6 +9538,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -9112,10 +9568,10 @@
     "serviceDescription": "RDP for a tunneled connection.",
     "purpose": "RDP display protocol session traffic tunneled through Connection Server.",
     "classification": "Tunneled connection ports",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -9356,6 +9812,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -9374,10 +9842,10 @@
     "serviceDescription": "Optional for client drive redirection (CDR) and multimedia redirection (MMR) for a tunneled connection.\n\nBy default, when using Blast Extreme, CDR traffic is side-channeled in the Blast Extreme ports indicated previously. If you prefer, this traffic can be separated onto the port indicated here.",
     "purpose": "-",
     "classification": "Tunneled connection ports",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -9618,6 +10086,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -9636,10 +10116,10 @@
     "serviceDescription": "Framework channel - used by ws_admin",
     "purpose": "One use is for vdmadmin to configure or read from agent. \nFor example, creating a Data Collection Tool (DCT) log bundle. (vdmadmin - A -getDCT...)",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -9880,6 +10360,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -9898,10 +10390,10 @@
     "serviceDescription": "Optional for USB redirection for a tunneled connection.\n\nBy default, USB traffic is side-channeled in the Blast Extreme or PCoIP ports indicated previously. If you prefer, this traffic can be separated onto the port indicated here.",
     "purpose": "-",
     "classification": "Tunneled connection ports",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -10142,6 +10634,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -10160,10 +10664,10 @@
     "serviceDescription": "Blast Extreme.",
     "purpose": "External Horizon client device display protocol session traffic via Blast Secure Gateway on Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -10404,6 +10908,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -10422,10 +10938,10 @@
     "serviceDescription": "Blast Extreme.",
     "purpose": "External Horizon client device display protocol session traffic via Blast Secure Gateway on Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -10666,6 +11182,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -10684,10 +11212,10 @@
     "serviceDescription": "PCoIP.",
     "purpose": "External Horizon client device display protocol session traffic via PCoIP Secure Gateway on Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -10928,6 +11456,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -10946,10 +11486,10 @@
     "serviceDescription": "PCoIP.",
     "purpose": "External Horizon client device display protocol session initiation via PCoIP Secure Gateway on Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -11190,6 +11730,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -11208,10 +11760,10 @@
     "serviceDescription": "RDP.",
     "purpose": "External Horizon client device display protocol session traffic via Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -11452,6 +12004,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -11470,10 +12034,10 @@
     "serviceDescription": "Optional for client drive redirection (CDR) and multimedia redirection (MMR).\n\nBy default, when using Blast Extreme, CDR traffic is side-channeled in the Blast Extreme ports indicated previously. If you prefer, this traffic can be separated onto the port indicated here.",
     "purpose": "Client drive redirection for an external Horizon client device.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -11714,6 +12278,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -11732,10 +12308,10 @@
     "serviceDescription": "Optional for USB redirection.\n\nBy default, USB traffic is side-channeled in the Blast Extreme or PCoIP ports indicated previously. If you prefer, this traffic can be separated onto the port indicated here.",
     "purpose": "USB redirection for an external Horizon client device.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -11976,6 +12552,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -11994,10 +12582,10 @@
     "serviceDescription": "Horizon 7 HTML Access.\n8443 is the default but can be changed to 443 on the Unified Access Gateway.",
     "purpose": "External Horizon client login viaUnified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -12238,6 +12826,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -12256,10 +12856,10 @@
     "serviceDescription": "Login traffic. SSL (HTTPS access) is enabled by default for client connections, but port 80 (HTTP access) can be used in some cases. See HTTP Redirection in Horizon 7 in Horizon 7 Security.",
     "purpose": "Internal Horizon client login and authentication traffic.",
     "classification": "Internal",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -12500,6 +13100,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -12518,10 +13130,10 @@
     "serviceDescription": "Blast Extreme.",
     "purpose": "Internal Horizon client device display protocol session traffic.",
     "classification": "Internal",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -12762,6 +13374,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -12780,10 +13404,10 @@
     "serviceDescription": "Blast Extreme.",
     "purpose": "Internal Horizon client device display protocol session traffic.",
     "classification": "Internal",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -13024,6 +13648,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -13042,10 +13678,10 @@
     "serviceDescription": "PCoIP.",
     "purpose": "Internal Horizon client device display protocol session initiation.",
     "classification": "Internal",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -13286,6 +13922,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -13304,10 +13952,10 @@
     "serviceDescription": "RDP.",
     "purpose": "Internal Horizon client device display protocol session traffic.",
     "classification": "Internal",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -13548,6 +14196,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -13566,10 +14226,10 @@
     "serviceDescription": "Optional for client drive redirection (CDR) and multimedia redirection (MMR). By default, when using Blast Extreme, CDR traffic is side-channeled in the Blast Extreme ports indicated previously. If you prefer, this traffic can be separated onto the port indicated here.",
     "purpose": "Client drive redirection for an internal Horizon client device.",
     "classification": "Internal",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -13810,6 +14470,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -13828,10 +14500,10 @@
     "serviceDescription": "Blast Extreme via Blast Secure Gateway on Unified Access Gateway for data traffic (adaptive transport). The Blast Secure Gateway on Unified Access Gateway includes Blast Extreme Adaptive Transport (BEAT) networking, which dynamically adjusts to network conditions such as varying speeds and packet loss. In Unified Access Gateway, you can configure the ports used by the BEAT protocol.\n\nBy default, Blast Extreme uses the standard ports TCP 8443 and UDP 8443.\nHowever, port 443 can also be configured for Blast TCP.\nThe port configuration is set through the Unified Access Gateway Blast External URL property. See Blast TCP and UDP External URL Configuration Options.\nIf you configure Unified Access Gateway to use both IPv4 and IPv6 mode, then the Blast TCP/UDP must be set to port 443. You can enable Unified Access Gateway to act as a bridge for IPv6 Horizon clients to connet to an IPv4 backend Connection Server or agent environment. See Support for IPv4 and IPv6 Dual Mode for Horizon Infrastructure.",
     "purpose": "External Horizon client device display protocol session traffic via Blast Secure Gateway on Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -14072,6 +14744,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -14090,10 +14774,10 @@
     "serviceDescription": "Blast Extreme via Blast Secure Gateway on Unified Access Gateway for data traffic (performant channel). The Blast Secure Gateway on Unified Access Gateway includes Blast Extreme Adaptive Transport (BEAT) networking, which dynamically adjusts to network conditions such as varying speeds and packet loss. In Unified Access Gateway, you can configure the ports used by the BEAT protocol.\n\nBy default, Blast Extreme uses the standard ports TCP 8443 and UDP 8443.\nHowever, port 443 can also be configured for Blast TCP.\nThe port configuration is set through the Unified Access Gateway Blast External URL property. See Blast TCP and UDP External URL Configuration Options.\nIf you configure Unified Access Gateway to use both IPv4 and IPv6 mode, then the Blast TCP/UDP must be set to port 443. You can enable Unified Access Gateway to act as a bridge for IPv6 Horizon clients to connet to an IPv4 backend Connection Server or agent environment. See Support for IPv4 and IPv6 Dual Mode for Horizon Infrastructure.",
     "purpose": "External Horizon client device display protocol session traffic via Blast Secure Gateway on Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -14334,6 +15018,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -14352,10 +15048,10 @@
     "serviceDescription": "Blast Extreme Network Intelligent Transport (BENIT) tries a UDP login connection if the client experiences difficulty making a TCP connection to the UAG.",
     "purpose": "Optional for external Horizon client login traffic.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -14596,6 +15292,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -14614,10 +15322,10 @@
     "serviceDescription": "PCoIP via PCoIP Secure Gateway on Unified Access Gateway.",
     "purpose": "External Horizon client device display protocol session traffic via PCoIP Secure Gateway on Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -14858,6 +15566,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -14876,10 +15596,10 @@
     "serviceDescription": "PCoIP via PCoIP Secure Gateway on Unified Access Gateway.",
     "purpose": "External Horizon client device display protocol session initiation via PCoIP Secure Gateway on Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -15120,6 +15840,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -15138,10 +15870,10 @@
     "serviceDescription": "Login traffic. SSL (HTTPS access) is enabled by default for client connections, but port 80 (HTTP access) can be used in some cases. See HTTP Redirection in Horizon 7 in Horizon 7 Security. Can also carry tunneled RDP, client drive redirection, and USB redirection traffic.",
     "purpose": "External Horizon client device login traffic via Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -15382,6 +16114,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -15400,10 +16144,10 @@
     "serviceDescription": "PCoIP.",
     "purpose": "Internal Horizon client device display protocol session traffic.",
     "classification": "Internal",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -15644,6 +16388,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -15662,10 +16418,10 @@
     "serviceDescription": "JMS.",
     "purpose": "Java Message Service communication.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -15906,6 +16662,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -15924,10 +16692,10 @@
     "serviceDescription": "Blast Extreme via the Unified Access Gateway for data traffic where port sharing is used. This would be instead of TCP 8443.",
     "purpose": "External Horizon client device display protocol session traffic via Blast Secure Gateway on Unified Access Gateway.",
     "classification": "External",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -16168,6 +16936,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -16186,10 +16966,10 @@
     "serviceDescription": "Login. SSL (HTTPS access) is enabled by default for client connections, but port 80 (HTTP access) can be used in certain cases. See HTTP Redirection in Horizon 7 in Horizon 7 Security.Can also carry tunneled RDP, client drive redirection, and USB redirection traffic",
     "purpose": "Tunnled Horizon client device login traffic.",
     "classification": "Tunneled connection ports",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -16430,6 +17210,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -16448,10 +17240,10 @@
     "serviceDescription": "Blast Extreme traffic to Blast Secure Gateway.",
     "purpose": "Tunneled Horizon client device display protocol session traffic via Blast Secure Gateway on Connection Server.",
     "classification": "Tunneled connection ports",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -16692,6 +17484,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -16710,10 +17514,10 @@
     "serviceDescription": "PCoIP traffic to PCoIP Secure Gateway.",
     "purpose": "Tunneled Horizon client device display protocol session initiation via PCoIP Secure Gateway on Connection Server.",
     "classification": "Tunneled connection ports",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -16954,6 +17758,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -16972,10 +17788,10 @@
     "serviceDescription": "PCoIP traffic to PCoIP Secure Gateway.",
     "purpose": "Tunneled Horizon client device display protocol session traffic via PCoIP Secure Gateway on Connection Server.",
     "classification": "Tunneled connection ports",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -17216,6 +18032,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -17234,10 +18062,10 @@
     "serviceDescription": "Java Message Service (JMS) when using enhanced security (default).",
     "purpose": "Java Message Service communication.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -17478,6 +18306,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -17496,10 +18336,10 @@
     "serviceDescription": "Only required when doing an unmanaged agent registration, for example, RDSH agent install without linked-clone or instant-clone component.",
     "purpose": "Unmanaged Horizon agent in virtual desktop or RDS host registration.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -17740,6 +18580,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -17758,10 +18610,10 @@
     "serviceDescription": "Optional for USB redirection. \nBy default, USB traffic is side-channeled in the Blast Extreme or PCoIP ports indicated previously. If desired, this traffic can be separated onto the port indicated here.",
     "purpose": "USB redirection for an internal Horizon client device.",
     "classification": "Internal",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -18008,6 +18860,18 @@
           "displayName": "Horizon",
           "rmProductId": 1132
         }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
       }
     ]
   },
@@ -18020,10 +18884,10 @@
     "serviceDescription": "PowerShell web services.",
     "purpose": "Virtual desktop or RDS host to App Volumes Manager.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -18252,6 +19116,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -18270,10 +19146,10 @@
     "serviceDescription": "Can use port 80 if not using SSL certificates to secure communication.",
     "purpose": "Virtual desktop or RDS host to App Volumes Manager.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -18502,6 +19378,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -18520,10 +19408,10 @@
     "serviceDescription": "\tDynamic Environment Manager agent access to SMB file shares.",
     "purpose": "Virtual desktop or RDS host, to file shares.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -18752,6 +19640,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -18770,10 +19670,10 @@
     "serviceDescription": "SOAP.",
     "purpose": "App Volumes Manager to vCenter Server.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -19002,6 +19902,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -19020,10 +19932,10 @@
     "serviceDescription": "https://<App Volumes Manager Server FQDN>/",
     "purpose": "Administrator access to App Volumes Manager admin console.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -19252,6 +20164,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -19270,10 +20194,10 @@
     "serviceDescription": "Hostd.",
     "purpose": "App Volumes Manager to vSphere ESXi hosts.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -19502,6 +20426,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -19520,10 +20456,10 @@
     "serviceDescription": "Default port for Microsoft SQL.",
     "purpose": "App Volumes Manager to SQL database.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -19752,6 +20688,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
@@ -19770,10 +20718,10 @@
     "serviceDescription": "https://cloud.horizon.omnissa.com ",
     "purpose": "Connection to Omnissa Cloud Service.",
     "classification": "-",
-    "submissionId": "sshanmugham-1745303048551",
+    "submissionId": "sshanmugham-1754287721509",
     "status": "PUBLISHED",
     "active": "true",
-    "publishDate": "2025-04-19 00:00",
+    "publishDate": "2025-08-01 00:00",
     "product": {
       "id": "5d975c178e3b97001626bace",
       "productName": "Horizon",
@@ -20002,6 +20950,18 @@
         "releaseName": "Horizon 2503",
         "displayName": "8 2503",
         "rmReleaseId": 16077,
+        "product": {
+          "id": "5d975c178e3b97001626bace",
+          "productName": "Horizon",
+          "displayName": "Horizon",
+          "rmProductId": 1132
+        }
+      },
+      {
+        "id": "68904d8fc0ad3e00462d4097",
+        "releaseName": "Horizon 2506",
+        "displayName": "8 2506",
+        "rmReleaseId": 16828,
         "product": {
           "id": "5d975c178e3b97001626bace",
           "productName": "Horizon",
