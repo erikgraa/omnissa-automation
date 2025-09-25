@@ -1,0 +1,2484 @@
+[
+  {
+    "id": "68d3b6acf9abda7860a02595",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Intelligence IPs in Ireland (eu2) region: 52.50.246.37, 54.76.120.187, 52.214.71.240",
+    "destination": "Third party services setup for workflow connectors",
+    "serviceDescription": "Connectors Freestyle",
+    "purpose": "-",
+    "classification": "Outgoing from WS1 Intelligence",
+    "submissionId": "sshanmugham-1758710496464",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6adf9abda7860a02596",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Intelligence IPs in Singapore (ap2) region: 3.1.144.23, 52.76.95.245, 52.76.243.117",
+    "destination": "Third party services setup for workflow connectors",
+    "serviceDescription": "Connectors Freestyle",
+    "purpose": "-",
+    "classification": "Outgoing from WS1 Intelligence",
+    "submissionId": "sshanmugham-1758710496464",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02592",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Intelligence IPs in canada(ca1) region: 35.182.84.243, 35.182.84.210, 3.97.124.108",
+    "destination": "Third party services setup for workflow connectors",
+    "serviceDescription": "Connectors Freestyle",
+    "purpose": "-",
+    "classification": "Outgoing from WS1 Intelligence",
+    "submissionId": "sshanmugham-1758710167324",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02593",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Intelligence IPs in Frankfurt (eu1) region: 18.194.235.124, 35.156.127.8, 18.195.111.228",
+    "destination": "Third party services setup for workflow connectors",
+    "serviceDescription": "Connectors Freestyle",
+    "purpose": "-",
+    "classification": "Outgoing from WS1 Intelligence",
+    "submissionId": "sshanmugham-1758710167324",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02594",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Intelligence IPs in India (in1) region: 13.127.24.211, 13.127.61.110, 35.154.236.159",
+    "destination": "Third party services setup for workflow connectors",
+    "serviceDescription": "Connectors Freestyle",
+    "purpose": "-",
+    "classification": "Outgoing from WS1 Intelligence",
+    "submissionId": "sshanmugham-1758710167324",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6adf9abda7860a02597",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Intelligence IPs in Sydney (au1) region: 52.63.121.101, 13.54.94.114, 13.236.27.201",
+    "destination": "Third party services setup for workflow connectors",
+    "serviceDescription": "Connectors Freestyle",
+    "purpose": "-",
+    "classification": "Outgoing from WS1 Intelligence",
+    "submissionId": "sshanmugham-1758710167324",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6adf9abda7860a02598",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Intelligence IPs in Frankfurt (eu1) region: 18.194.235.124, 35.156.127.8, 18.195.111.228",
+    "destination": "Third party services setup for workflow connectors",
+    "serviceDescription": "Connectors Freestyle",
+    "purpose": "-",
+    "classification": "Outgoing from WS1 Intelligence",
+    "submissionId": "sshanmugham-1758710167324",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6adf9abda7860a02599",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Intelligence IPs in Tokyo (ap1) region: 54.64.134.5, 13.114.203.203",
+    "destination": "Third party services setup for workflow connectors",
+    "serviceDescription": "Connectors Freestyle",
+    "purpose": "-",
+    "classification": "Outgoing from WS1 Intelligence",
+    "submissionId": "sshanmugham-1758710167324",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6adf9abda7860a0259a",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Intelligence IPs in London (uk1) region: 3.11.151.5, 52.56.79.2, 3.10.120.236",
+    "destination": "Third party services setup for workflow connectors",
+    "serviceDescription": "Connectors Freestyle",
+    "purpose": "-",
+    "classification": "Outgoing from WS1 Intelligence",
+    "submissionId": "sshanmugham-1758710167324",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6adf9abda7860a0259b",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Intelligence IPs in USA Production (na1) region: 52.41.14.207, 34.212.69.126, 34.211.153.193",
+    "destination": "Third party services setup for workflow connectors",
+    "serviceDescription": "Connectors Freestyle",
+    "purpose": "-",
+    "classification": "Outgoing from WS1 Intelligence",
+    "submissionId": "sshanmugham-1758710167324",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6adf9abda7860a0259c",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Intelligence IPs in USA UAT (sandbox) region: 50.112.69.240, 52.10.157.26, 52.89.177.218",
+    "destination": "Third party services setup for workflow connectors",
+    "serviceDescription": "Connectors Freestyle",
+    "purpose": "-",
+    "classification": "Outgoing from WS1 Intelligence",
+    "submissionId": "sshanmugham-1758710167324",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6adf9abda7860a0259d",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "uk1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Domain in uk1 region",
+    "purpose": "-",
+    "classification": "Bi directional in case of Access and Hub. Else Unidirectional",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02591",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in uk1 region",
+    "destination": "syslog.uk1.data.vmwservices.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02590",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in sandbox region",
+    "destination": "syslog.sandbox.data.vmwservices.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258f",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in na1 region",
+    "destination": "syslog.na1.data.vmwservices.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258e",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in in1 region",
+    "destination": "syslog.in1.data.vmwservices.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258d",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in eu2 region",
+    "destination": "syslog.eu2.data.vmwservices.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258c",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in eu1 region",
+    "destination": "syslog.eu1.data.vmwservices.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258b",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in ca1 region",
+    "destination": "syslog.ca1.data.vmwservices.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258a",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in ap2 region",
+    "destination": "syslog.ap2.data.vmwservices.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02589",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in ap1 region",
+    "destination": "syslog.ap1.data.vmwservices.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02588",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "sandbox.data.workspaceone.com",
+    "serviceDescription": "Intelligence Domain in sandbox region",
+    "purpose": "-",
+    "classification": "Bi directional in case of Access and Hub. Else Unidirectional",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02587",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "na1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Domain in na1 region",
+    "purpose": "-",
+    "classification": "Bi directional in case of Access and Hub. Else Unidirectional",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02586",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "in1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Domain in in1 region",
+    "purpose": "-",
+    "classification": "Bi directional in case of Access and Hub. Else Unidirectional",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02585",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "eventproxy.uk1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Data Ingestion API",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02584",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "eventproxy.sandbox.data.workspaceone.com",
+    "serviceDescription": "Intelligence Data Ingestion API",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02583",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "eventproxy.na1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Data Ingestion API",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02582",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "eventproxy.na1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Data Ingestion API",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02581",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "eventproxy.in1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Data Ingestion API",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02580",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "eventproxy.eu2.data.workspaceone.com",
+    "serviceDescription": "Intelligence Data Ingestion API",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0257f",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "eventproxy.eu1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Data Ingestion API",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0257e",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "eventproxy.ca1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Data Ingestion API",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0257d",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "eventproxy.au1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Data Ingestion API",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0257c",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "eventproxy.ap2.data.workspaceone.com",
+    "serviceDescription": "Intelligence Data Ingestion API",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0257b",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Data sources ingesting data into Intelligence. This can mean services like WorkspaceOne UEM, WorkspaceOne Hub Services, ITSM etc or Devices in case of Experience Management and Mobile Telemetry",
+    "destination": "eventproxy.ap1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Data Ingestion API",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0257a",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "eu2.data.workspaceone.com",
+    "serviceDescription": "Intelligence Domain in eu2 region",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02579",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "eu1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Domain in eu1 region",
+    "purpose": "Data Ingestion",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02578",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "UEM console Hostname/ Device Services Hostname",
+    "destination": "discovery.awmdm.com",
+    "serviceDescription": "Optional for AutoDiscovery and SSL pinning",
+    "purpose": "-",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02577",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)",
+    "destination": "config.uk1.data.workspaceone.com",
+    "serviceDescription": "API to access Experience Management and mobile telemetry config from Intelligence",
+    "purpose": "Desktop and Mobile Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02576",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)",
+    "destination": "config.sandbox.data.workspaceone.com",
+    "serviceDescription": "API to access Experience Management and mobile telemetry config from Intelligence",
+    "purpose": "Desktop and Mobile Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02575",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)",
+    "destination": "config.na1.data.workspaceone.com",
+    "serviceDescription": "API to access Experience Management and mobile telemetry config from Intelligence",
+    "purpose": "Desktop and Mobile Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02574",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)",
+    "destination": "config.na1.data.workspaceone.com",
+    "serviceDescription": "API to access Experience Management and mobile telemetry config from Intelligence",
+    "purpose": "Desktop and Mobile Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02573",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)",
+    "destination": "config.in1.data.workspaceone.com",
+    "serviceDescription": "API to access Experience Management and mobile telemetry config from Intelligence",
+    "purpose": "Desktop and Mobile Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02572",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)",
+    "destination": "config.eu2.data.workspaceone.com",
+    "serviceDescription": "API to access Experience Management and mobile telemetry config from Intelligence",
+    "purpose": "Desktop and Mobile Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02571",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)",
+    "destination": "config.eu1.data.workspaceone.com",
+    "serviceDescription": "API to access Experience Management and mobile telemetry config from Intelligence",
+    "purpose": "Desktop and Mobile Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02570",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)",
+    "destination": "config.ca1.data.workspaceone.com",
+    "serviceDescription": "API to access Experience Management and mobile telemetry config from Intelligence",
+    "purpose": "Desktop and Mobile Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0256f",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)",
+    "destination": "config.au1.data.workspaceone.com",
+    "serviceDescription": "API to access Experience Management and mobile telemetry config from Intelligence",
+    "purpose": "Desktop and Mobile Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0256e",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)",
+    "destination": "config.ap2.data.workspaceone.com",
+    "serviceDescription": "API to access Experience Management and mobile telemetry config from Intelligence",
+    "purpose": "Desktop and Mobile Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a0256d",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)",
+    "destination": "config.ap1.data.workspaceone.com",
+    "serviceDescription": "API to access Experience Management and mobile telemetry config from Intelligence",
+    "purpose": "Desktop and Mobile Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a0256c",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Intelligence Connector",
+    "destination": "ca1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Domain in ca1 region",
+    "purpose": "Intelligence Domain in Sydney region",
+    "classification": "Bi directional in case of Access and Hub. Else Unidirectional",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a0256b",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence\nWorkspace ONE UEM Device Services Server",
+    "destination": "auth.uk1.data.workspaceone.com",
+    "serviceDescription": "API to get an access token in sandbox region",
+    "purpose": "Authentication and Authorization",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a0256a",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence\nWorkspace ONE UEM Device Services Server",
+    "destination": "auth.sandbox.data.workspaceone.com",
+    "serviceDescription": "API to get an access token in sandbox region",
+    "purpose": "Authentication and Authorization",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02569",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence\nWorkspace ONE UEM Device Services Server",
+    "destination": "auth.na1.data.workspaceone.com",
+    "serviceDescription": "API to get an access token in na1 region",
+    "purpose": "Authentication and Authorization",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02568",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence\nWorkspace ONE UEM Device Services Server",
+    "destination": "auth.in1.data.workspaceone.com",
+    "serviceDescription": "API to get an access token in in1 region",
+    "purpose": "Authentication and Authorization",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02567",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence\nWorkspace ONE UEM Device Services Server",
+    "destination": "auth.eu2.data.workspaceone.com",
+    "serviceDescription": "API to get an access token in eu2 region",
+    "purpose": "Authentication and Authorization",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02566",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence\nWorkspace ONE UEM Device Services Server",
+    "destination": "auth.eu1.data.workspaceone.com",
+    "serviceDescription": "API to get an access token in eu1 region",
+    "purpose": "Authentication and Authorization",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02565",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence\nWorkspace ONE UEM Device Services Server",
+    "destination": "auth.ca1.data.workspaceone.com",
+    "serviceDescription": "API to get an access token in ca1 region",
+    "purpose": "Authentication and Authorization",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02564",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence\nWorkspace ONE UEM Device Services Server",
+    "destination": "auth.au1.data.workspaceone.com",
+    "serviceDescription": "API to get an access token in au1 region",
+    "purpose": "Authentication and Authorization",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02563",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence\nWorkspace ONE UEM Device Services Server",
+    "destination": "auth.ap2.data.workspaceone.com",
+    "serviceDescription": "API to get an access token in ap2 region",
+    "purpose": "Authentication and Authorization",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02562",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence\nWorkspace ONE UEM Device Services Server",
+    "destination": "auth.ap1.data.workspaceone.com",
+    "serviceDescription": "API to get an access token in ap1 region",
+    "purpose": "Authentication and Authorization",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02561",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "au1.data.workspaceone.com",
+    "serviceDescription": "Intelligence Domain in au1 region",
+    "purpose": "Intelligence Domain in Sydney region",
+    "classification": "Bi directional in case of Access and Hub. Else Unidirectional",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02560",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "ETL Installer",
+    "destination": "artifactrepo.data.workspaceone.com",
+    "serviceDescription": "Required to download latest versions of etl service for upgrades",
+    "purpose": "ETL V1 Service",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a0255f",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "api.uk1.data.workspaceone.com",
+    "serviceDescription": "* Required for Setting up hub inbound and outbound connectors.\n* Required for services like ITSM to pull data from Intelligence\n* Required by various services to call apis on Intelligence",
+    "purpose": "API Calls to Intelligence to pull data",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a0255e",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "api.sandbox.data.workspaceone.com",
+    "serviceDescription": "* Required for Setting up hub inbound and outbound connectors.\n* Required for services like ITSM to pull data from Intelligence\n* Required by various services to call apis on Intelligence",
+    "purpose": "API Calls to Intelligence to pull data",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a0255d",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Devices (Internet/Wi-Fi)\nWorkspace ONE UEM Console Server",
+    "destination": "api.na1.region.data.workspaceone.com",
+    "serviceDescription": "Optional - Used by Workspace ONE HUB & other Workspace ONE Productivity Apps to download the latest rule set for Jail Break Detection.",
+    "purpose": "Experience Management",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a0255c",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "api.na1.data.workspaceone.com",
+    "serviceDescription": "* Required for Setting up hub inbound and outbound connectors.\n* Required for services like ITSM to pull data from Intelligence\n* Required by various services to call apis on Intelligence",
+    "purpose": "API Calls to Intelligence to pull data",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a0255b",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "api.in1.data.workspaceone.com",
+    "serviceDescription": "* Required for Setting up hub inbound and outbound connectors.\n* Required for services like ITSM to pull data from Intelligence\n* Required by various services to call apis on Intelligence",
+    "purpose": "API Calls to Intelligence to pull data",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a0255a",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "api.eu2.data.workspaceone.com",
+    "serviceDescription": "* Required for Setting up hub inbound and outbound connectors.\n* Required for services like ITSM to pull data from Intelligence\n* Required by various services to call apis on Intelligence",
+    "purpose": "API Calls to Intelligence to pull data",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02559",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "api.eu1.data.workspaceone.com",
+    "serviceDescription": "* Required for Setting up hub inbound and outbound connectors.\n* Required for services like ITSM to pull data from Intelligence\n* Required by various services to call apis on Intelligence",
+    "purpose": "API Calls to Intelligence to pull data",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02558",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "api.ca1.data.workspaceone.com",
+    "serviceDescription": "* Required for Setting up hub inbound and outbound connectors.\n* Required for services like ITSM to pull data from Intelligence\n* Required by various services to call apis on Intelligence",
+    "purpose": "API Calls to Intelligence to pull data",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02557",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "api.au1.data.workspaceone.com",
+    "serviceDescription": "* Required for Setting up hub inbound and outbound connectors.\n* Required for services like ITSM to pull data from Intelligence\n* Required by various services to call apis on Intelligence",
+    "purpose": "API Calls to Intelligence to pull data",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02556",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "api.ap2.data.workspaceone.com",
+    "serviceDescription": "* Required for Setting up hub inbound and outbound connectors.\n* Required for services like ITSM to pull data from Intelligence\n* Required by various services to call apis on Intelligence",
+    "purpose": "API Calls to Intelligence to pull data",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6abf9abda7860a02555",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Omnissa Services like WorkspaceOne Hub Services, WorkspaceOne Access, WorkspaceOne UEM, GEM and other Third Party services that make API calls to Intelligence",
+    "destination": "api.ap1.data.workspaceone.com",
+    "serviceDescription": "* Required for Setting up hub inbound and outbound connectors.\n* Required for services like ITSM to pull data from Intelligence\n* Required by various services to call apis on Intelligence",
+    "purpose": "API Calls to Intelligence to pull data",
+    "classification": "uni-directional (outbound)",
+    "submissionId": "sshanmugham-1758705323296",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-21 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  }
+]
