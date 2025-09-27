@@ -1,5 +1,311 @@
 [
   {
+    "id": "68d3b6acf9abda7860a02589",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in ap1 region",
+    "destination": "syslog.ap1.data.workspaceone.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758883752508",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-23 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258a",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in ap2 region",
+    "destination": "syslog.ap2.data.workspaceone.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758883752508",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-23 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258b",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in ca1 region",
+    "destination": "syslog.ca1.data.workspaceone.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758883752508",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-23 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258c",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in eu1 region",
+    "destination": "syslog.eu1.data.workspaceone.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758883752508",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-23 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258d",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in eu2 region",
+    "destination": "syslog.eu2.data.workspaceone.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758883752508",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-23 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258e",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in in1 region",
+    "destination": "syslog.in1.data.workspaceone.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758883752508",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-23 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a0258f",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in na1 region",
+    "destination": "syslog.na1.data.workspaceone.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758883752508",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-23 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02590",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in sandbox region",
+    "destination": "syslog.sandbox.data.workspaceone.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758883752508",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-23 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
+    "id": "68d3b6acf9abda7860a02591",
+    "port": "443",
+    "protocol": "HTTPS",
+    "source": "Syslog Partners in uk1 region",
+    "destination": "syslog.uk1.data.workspaceone.com",
+    "serviceDescription": "Syslog ingestion",
+    "purpose": "-",
+    "classification": "One way. Incoming from syslog partners",
+    "submissionId": "sshanmugham-1758883752508",
+    "status": "PUBLISHED",
+    "active": "true",
+    "publishDate": "2025-09-23 00:00",
+    "product": {
+      "id": "68d3b50ec789af6a1738fa45",
+      "productName": "Omnissa Intelligence",
+      "displayName": "Omnissa Intelligence",
+      "rmProductId": 1595
+    },
+    "releases": [
+      {
+        "id": "68d3b568f9abda7860a02554",
+        "releaseName": "SaaS",
+        "displayName": "SaaS",
+        "rmReleaseId": 15951,
+        "product": {
+          "id": "68d3b50ec789af6a1738fa45",
+          "productName": "Omnissa Intelligence",
+          "displayName": "Omnissa Intelligence",
+          "rmProductId": 1595
+        }
+      }
+    ]
+  },
+  {
     "id": "68d3b6acf9abda7860a02595",
     "port": "443",
     "protocol": "HTTPS",
@@ -382,312 +688,6 @@
     "serviceDescription": "Intelligence Domain in uk1 region",
     "purpose": "-",
     "classification": "Bi directional in case of Access and Hub. Else Unidirectional",
-    "submissionId": "sshanmugham-1758705323296",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2025-09-21 00:00",
-    "product": {
-      "id": "68d3b50ec789af6a1738fa45",
-      "productName": "Omnissa Intelligence",
-      "displayName": "Omnissa Intelligence",
-      "rmProductId": 1595
-    },
-    "releases": [
-      {
-        "id": "68d3b568f9abda7860a02554",
-        "releaseName": "SaaS",
-        "displayName": "SaaS",
-        "rmReleaseId": 15951,
-        "product": {
-          "id": "68d3b50ec789af6a1738fa45",
-          "productName": "Omnissa Intelligence",
-          "displayName": "Omnissa Intelligence",
-          "rmProductId": 1595
-        }
-      }
-    ]
-  },
-  {
-    "id": "68d3b6acf9abda7860a02591",
-    "port": "443",
-    "protocol": "HTTPS",
-    "source": "Syslog Partners in uk1 region",
-    "destination": "syslog.uk1.data.vmwservices.com",
-    "serviceDescription": "Syslog ingestion",
-    "purpose": "-",
-    "classification": "One way. Incoming from syslog partners",
-    "submissionId": "sshanmugham-1758705323296",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2025-09-21 00:00",
-    "product": {
-      "id": "68d3b50ec789af6a1738fa45",
-      "productName": "Omnissa Intelligence",
-      "displayName": "Omnissa Intelligence",
-      "rmProductId": 1595
-    },
-    "releases": [
-      {
-        "id": "68d3b568f9abda7860a02554",
-        "releaseName": "SaaS",
-        "displayName": "SaaS",
-        "rmReleaseId": 15951,
-        "product": {
-          "id": "68d3b50ec789af6a1738fa45",
-          "productName": "Omnissa Intelligence",
-          "displayName": "Omnissa Intelligence",
-          "rmProductId": 1595
-        }
-      }
-    ]
-  },
-  {
-    "id": "68d3b6acf9abda7860a02590",
-    "port": "443",
-    "protocol": "HTTPS",
-    "source": "Syslog Partners in sandbox region",
-    "destination": "syslog.sandbox.data.vmwservices.com",
-    "serviceDescription": "Syslog ingestion",
-    "purpose": "-",
-    "classification": "One way. Incoming from syslog partners",
-    "submissionId": "sshanmugham-1758705323296",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2025-09-21 00:00",
-    "product": {
-      "id": "68d3b50ec789af6a1738fa45",
-      "productName": "Omnissa Intelligence",
-      "displayName": "Omnissa Intelligence",
-      "rmProductId": 1595
-    },
-    "releases": [
-      {
-        "id": "68d3b568f9abda7860a02554",
-        "releaseName": "SaaS",
-        "displayName": "SaaS",
-        "rmReleaseId": 15951,
-        "product": {
-          "id": "68d3b50ec789af6a1738fa45",
-          "productName": "Omnissa Intelligence",
-          "displayName": "Omnissa Intelligence",
-          "rmProductId": 1595
-        }
-      }
-    ]
-  },
-  {
-    "id": "68d3b6acf9abda7860a0258f",
-    "port": "443",
-    "protocol": "HTTPS",
-    "source": "Syslog Partners in na1 region",
-    "destination": "syslog.na1.data.vmwservices.com",
-    "serviceDescription": "Syslog ingestion",
-    "purpose": "-",
-    "classification": "One way. Incoming from syslog partners",
-    "submissionId": "sshanmugham-1758705323296",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2025-09-21 00:00",
-    "product": {
-      "id": "68d3b50ec789af6a1738fa45",
-      "productName": "Omnissa Intelligence",
-      "displayName": "Omnissa Intelligence",
-      "rmProductId": 1595
-    },
-    "releases": [
-      {
-        "id": "68d3b568f9abda7860a02554",
-        "releaseName": "SaaS",
-        "displayName": "SaaS",
-        "rmReleaseId": 15951,
-        "product": {
-          "id": "68d3b50ec789af6a1738fa45",
-          "productName": "Omnissa Intelligence",
-          "displayName": "Omnissa Intelligence",
-          "rmProductId": 1595
-        }
-      }
-    ]
-  },
-  {
-    "id": "68d3b6acf9abda7860a0258e",
-    "port": "443",
-    "protocol": "HTTPS",
-    "source": "Syslog Partners in in1 region",
-    "destination": "syslog.in1.data.vmwservices.com",
-    "serviceDescription": "Syslog ingestion",
-    "purpose": "-",
-    "classification": "One way. Incoming from syslog partners",
-    "submissionId": "sshanmugham-1758705323296",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2025-09-21 00:00",
-    "product": {
-      "id": "68d3b50ec789af6a1738fa45",
-      "productName": "Omnissa Intelligence",
-      "displayName": "Omnissa Intelligence",
-      "rmProductId": 1595
-    },
-    "releases": [
-      {
-        "id": "68d3b568f9abda7860a02554",
-        "releaseName": "SaaS",
-        "displayName": "SaaS",
-        "rmReleaseId": 15951,
-        "product": {
-          "id": "68d3b50ec789af6a1738fa45",
-          "productName": "Omnissa Intelligence",
-          "displayName": "Omnissa Intelligence",
-          "rmProductId": 1595
-        }
-      }
-    ]
-  },
-  {
-    "id": "68d3b6acf9abda7860a0258d",
-    "port": "443",
-    "protocol": "HTTPS",
-    "source": "Syslog Partners in eu2 region",
-    "destination": "syslog.eu2.data.vmwservices.com",
-    "serviceDescription": "Syslog ingestion",
-    "purpose": "-",
-    "classification": "One way. Incoming from syslog partners",
-    "submissionId": "sshanmugham-1758705323296",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2025-09-21 00:00",
-    "product": {
-      "id": "68d3b50ec789af6a1738fa45",
-      "productName": "Omnissa Intelligence",
-      "displayName": "Omnissa Intelligence",
-      "rmProductId": 1595
-    },
-    "releases": [
-      {
-        "id": "68d3b568f9abda7860a02554",
-        "releaseName": "SaaS",
-        "displayName": "SaaS",
-        "rmReleaseId": 15951,
-        "product": {
-          "id": "68d3b50ec789af6a1738fa45",
-          "productName": "Omnissa Intelligence",
-          "displayName": "Omnissa Intelligence",
-          "rmProductId": 1595
-        }
-      }
-    ]
-  },
-  {
-    "id": "68d3b6acf9abda7860a0258c",
-    "port": "443",
-    "protocol": "HTTPS",
-    "source": "Syslog Partners in eu1 region",
-    "destination": "syslog.eu1.data.vmwservices.com",
-    "serviceDescription": "Syslog ingestion",
-    "purpose": "-",
-    "classification": "One way. Incoming from syslog partners",
-    "submissionId": "sshanmugham-1758705323296",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2025-09-21 00:00",
-    "product": {
-      "id": "68d3b50ec789af6a1738fa45",
-      "productName": "Omnissa Intelligence",
-      "displayName": "Omnissa Intelligence",
-      "rmProductId": 1595
-    },
-    "releases": [
-      {
-        "id": "68d3b568f9abda7860a02554",
-        "releaseName": "SaaS",
-        "displayName": "SaaS",
-        "rmReleaseId": 15951,
-        "product": {
-          "id": "68d3b50ec789af6a1738fa45",
-          "productName": "Omnissa Intelligence",
-          "displayName": "Omnissa Intelligence",
-          "rmProductId": 1595
-        }
-      }
-    ]
-  },
-  {
-    "id": "68d3b6acf9abda7860a0258b",
-    "port": "443",
-    "protocol": "HTTPS",
-    "source": "Syslog Partners in ca1 region",
-    "destination": "syslog.ca1.data.vmwservices.com",
-    "serviceDescription": "Syslog ingestion",
-    "purpose": "-",
-    "classification": "One way. Incoming from syslog partners",
-    "submissionId": "sshanmugham-1758705323296",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2025-09-21 00:00",
-    "product": {
-      "id": "68d3b50ec789af6a1738fa45",
-      "productName": "Omnissa Intelligence",
-      "displayName": "Omnissa Intelligence",
-      "rmProductId": 1595
-    },
-    "releases": [
-      {
-        "id": "68d3b568f9abda7860a02554",
-        "releaseName": "SaaS",
-        "displayName": "SaaS",
-        "rmReleaseId": 15951,
-        "product": {
-          "id": "68d3b50ec789af6a1738fa45",
-          "productName": "Omnissa Intelligence",
-          "displayName": "Omnissa Intelligence",
-          "rmProductId": 1595
-        }
-      }
-    ]
-  },
-  {
-    "id": "68d3b6acf9abda7860a0258a",
-    "port": "443",
-    "protocol": "HTTPS",
-    "source": "Syslog Partners in ap2 region",
-    "destination": "syslog.ap2.data.vmwservices.com",
-    "serviceDescription": "Syslog ingestion",
-    "purpose": "-",
-    "classification": "One way. Incoming from syslog partners",
-    "submissionId": "sshanmugham-1758705323296",
-    "status": "PUBLISHED",
-    "active": "true",
-    "publishDate": "2025-09-21 00:00",
-    "product": {
-      "id": "68d3b50ec789af6a1738fa45",
-      "productName": "Omnissa Intelligence",
-      "displayName": "Omnissa Intelligence",
-      "rmProductId": 1595
-    },
-    "releases": [
-      {
-        "id": "68d3b568f9abda7860a02554",
-        "releaseName": "SaaS",
-        "displayName": "SaaS",
-        "rmReleaseId": 15951,
-        "product": {
-          "id": "68d3b50ec789af6a1738fa45",
-          "productName": "Omnissa Intelligence",
-          "displayName": "Omnissa Intelligence",
-          "rmProductId": 1595
-        }
-      }
-    ]
-  },
-  {
-    "id": "68d3b6acf9abda7860a02589",
-    "port": "443",
-    "protocol": "HTTPS",
-    "source": "Syslog Partners in ap1 region",
-    "destination": "syslog.ap1.data.vmwservices.com",
-    "serviceDescription": "Syslog ingestion",
-    "purpose": "-",
-    "classification": "One way. Incoming from syslog partners",
     "submissionId": "sshanmugham-1758705323296",
     "status": "PUBLISHED",
     "active": "true",
